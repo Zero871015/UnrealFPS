@@ -1,0 +1,1524 @@
+﻿Log file open, 06/06/19 16:14:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HW4FPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185852
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.070s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.06-08.14.45:946][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.06-08.14.45:946][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.06-08.14.45:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Engine.ini]
+[2019.06.06-08.14.45:946][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.06-08.14.45:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Engine.ini]
+[2019.06.06-08.14.45:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Engine.ini]
+[2019.06.06-08.14.45:946][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.06-08.14.45:946][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.06-08.14.45:946][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Engine.ini]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.06-08.14.45:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Engine.ini]
+[2019.06.06-08.14.45:947][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Engine.ini]
+[2019.06.06-08.14.45:950][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.06-08.14.45:950][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.06-08.14.45:951][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.06-08.14.45:952][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.06-08.14.45:952][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.06-08.14.45:952][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.06-08.14.45:983][  0]LogHAL: Display: Platform has ~ 8 GB [8467271680 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.06-08.14.45:983][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.06-08.14.45:983][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.06-08.14.45:983][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Scalability.ini]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.06-08.14.45:984][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.06-08.14.45:985][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.06-08.14.45:985][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Bruce/source/repos/UnrealFPS/Saved/Config/Windows/Engine.ini]
+[2019.06.06-08.14.45:985][  0]LogInit: Computer: DESKTOP-ROG
+[2019.06.06-08.14.45:985][  0]LogInit: User: Bruce
+[2019.06.06-08.14.45:985][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.06-08.14.45:985][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.06-08.14.45:985][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.06.06-08.14.45:985][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.06-08.14.45:985][  0]LogMemory: Process Physical Memory: 103.02 MB used, 103.03 MB peak
+[2019.06.06-08.14.45:985][  0]LogMemory: Process Virtual Memory: 84.36 MB used, 84.36 MB peak
+[2019.06.06-08.14.45:985][  0]LogMemory: Physical Memory: 3442.46 MB used,  4632.55 MB free, 8075.02 MB total
+[2019.06.06-08.14.45:985][  0]LogMemory: Virtual Memory: 4612.05 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2019.06.06-08.14.46:009][  0]LogInit: Using OS detected language (zh-TW).
+[2019.06.06-08.14.46:010][  0]LogInit: Using OS detected locale (zh-TW).
+[2019.06.06-08.14.46:010][  0]LogTextLocalizationManager: No localization for 'zh-TW' exists, so 'en' will be used for the language.
+[2019.06.06-08.14.46:548][  0]LogStreaming: Display: Took  0.539s to InitEngineTextLocalization.
+[2019.06.06-08.14.46:548][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.06-08.14.46:643][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.06-08.14.46:643][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.06-08.14.46:959][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.06-08.14.46:959][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.06-08.14.47:018][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2019.06.06-08.14.47:018][  0]LogD3D11RHI:       2019/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.06-08.14.47:024][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.06.06-08.14.47:024][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.06-08.14.47:026][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.06-08.14.47:027][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.06-08.14.47:027][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.06-08.14.47:048][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.06-08.14.47:048][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.06-08.14.47:048][  0]LogWindows: EnumDisplayDevices:
+[2019.06.06-08.14.47:048][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.06.06-08.14.47:048][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.06-08.14.47:049][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.06-08.14.47:049][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.06-08.14.47:049][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2019.06.06-08.14.47:049][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.06-08.14.47:049][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.06-08.14.47:049][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2019.06.06-08.14.47:085][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.06-08.14.47:097][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.06-08.14.47:606][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.06-08.14.47:620][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.06-08.14.47:634][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.06-08.14.47:648][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.06-08.14.47:663][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.06-08.14.47:677][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.06-08.14.47:691][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.06-08.14.47:706][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.06-08.14.47:713][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.06-08.14.47:791][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:791][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:791][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:792][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.06-08.14.47:793][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.06-08.14.47:856][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.06-08.14.47:856][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.06-08.14.47:880][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.06-08.14.47:880][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.06-08.14.47:894][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.06-08.14.47:907][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.06-08.14.47:920][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.06-08.14.47:934][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.06-08.14.47:982][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.06-08.14.47:982][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.06-08.14.47:982][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.06-08.14.48:056][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/Bruce/source/repos/UnrealFPS/Intermediate/Shaders/WorkingDirectory/9028/).
+[2019.06.06-08.14.48:056][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bruce/AppData/Local/Temp/UnrealShaderWorkingDir/3A0B9CF348A56C8A2BB6449E72CBEB55/'.
+[2019.06.06-08.14.48:059][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.06-08.14.48:059][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.06-08.14.48:059][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.06-08.14.48:697][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.06-08.14.48:762][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Bruce/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.06-08.14.48:762][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bruce/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.06-08.14.48:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bruce/source/repos/UnrealFPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.06-08.14.48:763][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.06-08.14.48:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bruce/source/repos/UnrealFPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.06-08.14.48:763][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.06-08.14.48:782][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.06-08.14.48:782][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.06-08.14.48:782][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.06-08.14.48:794][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bruce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.06-08.14.48:794][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.06-08.14.48:794][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.06-08.14.48:835][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.06-08.14.48:836][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.06-08.14.48:837][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.06-08.14.48:934][  0]LogAssetRegistry: FAssetRegistry took 0.0360 seconds to start up
+[2019.06.06-08.14.49:298][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.06-08.14.49:457][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.06-08.14.49:460][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.06-08.14.49:460][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.06-08.14.49:460][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.06-08.14.49:460][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.06-08.14.49:474][  0]LogNetVersion: HW4FPS 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2524836174)
+[2019.06.06-08.14.49:984][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.050924 seconds
+[2019.06.06-08.14.49:990][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.06-08.14.49:990][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.06.06-08.14.49:990][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.06-08.14.50:831][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.06-08.14.50:844][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.06-08.14.51:538][  0]SourceControl: Source control is disabled
+[2019.06.06-08.14.51:538][  0]SourceControl: Source control is disabled
+[2019.06.06-08.14.51:539][  0]SourceControl: Source control is disabled
+[2019.06.06-08.14.51:540][  0]SourceControl: Source control is disabled
+[2019.06.06-08.14.51:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.06-08.14.51:780][  0]LogOcInput: OculusInput pre-init called
+[2019.06.06-08.14.51:949][  0]LogEngine: Initializing Engine...
+[2019.06.06-08.14.51:950][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.06-08.14.51:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.06-08.14.51:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.06-08.14.51:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.06-08.14.51:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.06-08.14.52:216][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.06-08.14.52:234][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.06-08.14.52:250][  0]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.06-08.14.52:287][  0]LogInit: FAudioDevice initialized.
+[2019.06.06-08.14.52:287][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.06-08.14.52:421][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Bruce/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.06-08.14.52:430][  0]LogInit: Texture streaming: Enabled
+[2019.06.06-08.14.52:461][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.06-08.14.52:476][  0]LogInit: Transaction tracking system initialized
+[2019.06.06-08.14.52:498][  0]BlueprintLog: New page: Editor Load
+[2019.06.06-08.14.52:569][  0]LocalizationService: Localization service is disabled
+[2019.06.06-08.14.53:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruce/source/repos/UnrealFPS/Content/' took 0.02s
+[2019.06.06-08.14.53:082][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.06-08.14.53:082][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.06-08.14.53:082][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.06-08.14.53:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.06-08.14.53:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.06-08.14.53:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.06-08.14.53:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.06-08.14.53:233][  0]SourceControl: Source control is disabled
+[2019.06.06-08.14.53:234][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.06-08.14.53:234][  0]LightingResults: New page: Lighting Build
+[2019.06.06-08.14.53:236][  0]MapCheck: New page: Map Check
+[2019.06.06-08.14.53:237][  0]LightingResults: New page: Lighting Build
+[2019.06.06-08.14.53:850][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.06-08.14.53:866][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.06-08.14.53:894][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.06-08.14.53:894][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2019.06.06-08.14.53:894][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.661
+[2019.06.06-08.14.54:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.14.54:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.14.54:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.14.54:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.14.54:063][  0]LogCollectionManager: Loaded 0 collections in 0.001538 seconds
+[2019.06.06-08.14.54:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruce/source/repos/UnrealFPS/Saved/Collections/' took 0.01s
+[2019.06.06-08.14.54:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruce/source/repos/UnrealFPS/Content/Developers/Bruce/Collections/' took 0.01s
+[2019.06.06-08.14.54:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruce/source/repos/UnrealFPS/Content/Collections/' took 0.01s
+[2019.06.06-08.14.54:105][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.06-08.14.54:123][  0]LogContentBrowser: Native class hierarchy populated in 0.0180 seconds. Added 2651 classes and 620 folders.
+[2019.06.06-08.14.54:133][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.06-08.14.54:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.06-08.14.54:181][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.06-08.14.54:189][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2019.06.06-08.14.54:250][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.06-08.14.54:250][  0]LogLoad: (Engine Initialization) Total time: 10.54 seconds
+[2019.06.06-08.14.54:250][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.06-08.14.54:345][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.06-08.14.54:347][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.06-08.14.54:349][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.06-08.14.54:358][  0]LogSlate: Took 0.001191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.06-08.14.54:501][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.06-08.14.54:531][  1]LogRenderer: Reallocating scene render targets to support 688x360 Format 10 NumSamples 1 (Frame:1).
+[2019.06.06-08.14.54:917][  4]LogAssetRegistry: Asset discovery search completed in 6.0055 seconds
+[2019.06.06-08.14.54:919][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.06-08.14.54:919][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2019.06.06-08.20.04:414][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.20.04:553][500]LogRenderer: Reallocating scene render targets to support 832x436 Format 10 NumSamples 1 (Frame:588).
+[2019.06.06-08.20.28:604][603]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.06-08.20.28:604][603]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.06-08.21.17:489][490]LogSlate: Took 0.000664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.06-08.21.17:531][490]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/AdjTgt.fbx)
+[2019.06.06-08.21.17:578][490]LogFbx: Loading FBX Scene from ../../../../../../Users/Bruce/Dropbox/T91/AdjTgt.fbx
+[2019.06.06-08.21.17:592][490]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.06-08.21.23:404][490]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.06-08.21.23:616][490]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.21.23:670][490]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.21.23:670][490]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.21.23:670][490]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.06-08.21.23:670][490]LogFbx: Warning: Triangulating static mesh Cube
+[2019.06.06-08.21.23:685][490]LogStaticMesh: Building static mesh AdjTgt...
+[2019.06.06-08.21.23:691][490]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt.AdjTgt
+[2019.06.06-08.21.23:798][490]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/AdjTgt.png)
+[2019.06.06-08.21.23:803][490]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.06-08.21.23:804][490]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.06-08.21.23:836][490]LogTexture: Display: Building textures: AdjTgt_0 (AutoDXT, 1024X1024)
+[2019.06.06-08.21.24:578][490]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/T91.fbx)
+[2019.06.06-08.21.24:601][490]LogFbx: Loading FBX Scene from ../../../../../../Users/Bruce/Dropbox/T91/T91.fbx
+[2019.06.06-08.21.24:664][490]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.06-08.21.26:025][490]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.06-08.21.26:081][490]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.21.26:111][490]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.21.26:112][490]LogFbx: Warning: Triangulating static mesh T91rifle
+[2019.06.06-08.21.26:300][490]LogStaticMesh: Building static mesh T91...
+[2019.06.06-08.21.26:384][490]LogStaticMesh: Built static mesh [0.09s] /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91.T91
+[2019.06.06-08.21.26:392][490]LogStaticMesh: Warning: T91 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.06-08.21.26:392][490]LogStaticMesh: Warning: T91 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.06-08.21.26:423][490]FBXImport: Warning: T91 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.06-08.21.26:423][490]FBXImport: Warning: T91 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.06-08.21.26:457][490]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/T91.png)
+[2019.06.06-08.21.26:459][490]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.06-08.21.26:459][490]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.06-08.21.26:487][490]LogTexture: Display: Building textures: T91_0 (AutoDXT, 1024X1024)
+[2019.06.06-08.21.33:139][832]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.21.34:146][893]LogSlate: Window 'Message Log' being destroyed
+[2019.06.06-08.21.34:160][893]LogSlate: Window 'Message Log' being destroyed
+[2019.06.06-08.21.43:613][443]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt1.AdjTgt1
+[2019.06.06-08.21.43:624][443]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.21.44:458][443]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.06-08.21.44:463][443]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.21.44:495][443]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.21.44:548][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.06-08.21.44:614][443]LogSlate: Took 0.001877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.06-08.21.44:865][444]LogSlate: Took 0.008521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.06-08.21.45:069][445]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.21.45:189][447]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.21.46:507][500]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.21.47:811][517]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.21.47:811][517]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.21.47:811][517]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.21.47:811][517]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.06-08.21.47:811][517]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.06-08.21.47:811][517]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.06-08.21.47:811][517]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.06-08.21.48:254][531]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.06-08.21.50:354][614]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.21.50:386][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.06-08.21.50:414][614]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.21.50:431][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.06-08.21.50:443][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.06-08.21.50:673][618]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.06-08.21.51:798][665]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.21.52:291][686]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.21.52:955][716]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.21.52:977][717]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.21.53:700][750]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.21.53:722][751]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.21.54:071][767]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.21.54:113][767]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.06-08.21.54:132][767]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.21.54:266][771]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (27.398 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.06-08.21.54:401][777]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.06-08.21.54:723][791]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.21.55:593][825]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.21.55:880][837]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.21.56:005][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.21.56:756][875]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.21.56:835][878]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.21.56:858][879]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.06-08.21.57:563][907]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.06-08.21.57:630][910]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.06-08.21.57:650][911]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.06-08.21.57:967][924]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.21.58:061][925]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.21.58:481][941]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.21.59:572][986]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.21.59:712][993]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.21.59:778][995]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.22.00:029][995]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.22.00:085][997]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.06-08.22.00:235][  3]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.06-08.22.00:949][ 34]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.06-08.22.01:044][ 38]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.06-08.22.01:922][ 77]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.06-08.22.01:946][ 78]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.22.02:221][ 89]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.06-08.22.02:969][120]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.06-08.22.02:969][120]LogMaterialEditor: Saving and Compiling material AdjTgt1
+[2019.06.06-08.22.03:655][120]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.06-08.22.03:655][120]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.06-08.22.03:655][120]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.06-08.22.03:689][120]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.22.03:803][120]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.22.03:834][120]LogMaterial: Display: Missing cached shader map for material AdjTgt1, compiling. 
+[2019.06.06-08.22.03:912][120]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AdjTgt1, compiling. 
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.22.07:211][120]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.06-08.22.07:218][120]TextureStreamingBuild: Display: Compiling optional shaders took 3.322 seconds.
+[2019.06.06-08.22.10:676][120]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/AdjTgt1EACF159747335FC1A7A9ACBC7445C9A7.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt1.uasset'
+[2019.06.06-08.22.10:699][120]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.06.06-08.22.10:699][120]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.06.06-08.22.10:699][120]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.06-08.22.10:699][120]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.06-08.22.10:699][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.06-08.22.10:699][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.06-08.22.14:860][266]LogSlate: Window 'AdjTgt1' being destroyed
+[2019.06.06-08.22.14:873][266]LogSlate: Window 'AdjTgt1' being destroyed
+[2019.06.06-08.22.19:339][580]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Weapons/T91/Material.Material
+[2019.06.06-08.22.19:347][580]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.19:428][580]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.19:450][580]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.19:490][580]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.22.19:490][580]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.22.19:490][580]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.22.19:508][580]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.06-08.22.20:414][603]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.22.20:522][607]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.22.20:693][614]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.22.21:724][658]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.06-08.22.21:749][659]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.06-08.22.21:799][661]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.06-08.22.22:358][684]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.06-08.22.22:680][697]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.06-08.22.22:723][699]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.22.24:337][766]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.06-08.22.24:993][794]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.06-08.22.25:462][813]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.06-08.22.26:797][865]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.06-08.22.26:881][869]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.06-08.22.27:328][887]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.06-08.22.28:125][918]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.28:646][936]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.22.29:039][952]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.22.29:355][965]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.22.30:406][  9]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.22.31:200][ 11]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.22.31:201][ 11]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.22.31:201][ 11]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.06-08.22.31:201][ 11]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.06-08.22.31:201][ 11]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.06-08.22.31:201][ 11]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.06-08.22.31:201][ 11]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.06-08.22.31:201][ 11]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.22.31:321][ 15]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.06-08.22.31:451][ 17]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.06-08.22.32:995][ 73]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.06-08.22.33:506][ 95]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.06-08.22.34:167][108]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.06-08.22.34:278][108]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.06-08.22.34:452][108]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.06-08.22.34:452][108]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.06-08.22.36:105][167]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.06-08.22.36:447][182]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.36:476][182]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.06-08.22.36:502][182]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.22.36:518][182]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.06-08.22.36:631][184]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.22.37:733][224]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.22.37:820][228]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.22.37:840][229]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.22.38:550][261]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.22.38:550][261]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.06-08.22.38:609][264]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.06-08.22.38:835][275]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.38:872][275]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.06-08.22.38:985][278]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.22.39:084][280]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.22.39:090][280]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.06-08.22.40:103][319]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.22.40:177][322]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.06-08.22.40:199][323]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.06-08.22.40:915][355]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.06-08.22.40:939][356]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.06-08.22.41:206][368]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.06-08.22.41:850][393]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.06-08.22.42:105][404]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.06-08.22.42:144][406]LogMaterialEditor: Saving and Compiling material Material
+[2019.06.06-08.22.42:853][406]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.22.42:853][406]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.06-08.22.42:889][406]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.42:964][406]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.06-08.22.43:001][406]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.43:034][406]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.22.43:107][406]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material, compiling. 
+[2019.06.06-08.22.46:511][406]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.22.46:512][406]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.06-08.22.46:516][406]TextureStreamingBuild: Display: Compiling optional shaders took 3.421 seconds.
+[2019.06.06-08.22.49:881][406]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/MaterialE8E77204401E5A5EF9F5629B95461A0C.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/Material.uasset'
+[2019.06.06-08.22.49:902][406]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.06.06-08.22.49:902][406]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.06.06-08.22.49:902][406]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.06-08.22.49:902][406]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.06-08.22.49:902][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.06-08.22.49:902][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.06-08.22.52:845][510]LogSlate: Window 'Material' being destroyed
+[2019.06.06-08.22.52:858][510]LogSlate: Window 'Material' being destroyed
+[2019.06.06-08.23.14:612][890]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.06-08.23.31:700][972]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle
+[2019.06.06-08.23.32:271][972]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.06.06-08.24.48:877][ 35]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-08.24.54:490][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2019.06.06-08.24.54:493][301]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt] ([2] browsable assets)...
+[2019.06.06-08.24.54:512][301]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt.AdjTgt]
+[2019.06.06-08.24.54:520][301]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt.AdjTgt_0]
+[2019.06.06-08.24.54:520][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt]
+[2019.06.06-08.24.54:544][301]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/AdjTgt_Auto1CE807F2F4CEAFFED543AD8A6D2D35BEE.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt_Auto1.uasset'
+[2019.06.06-08.24.54:545][301]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91] ([2] browsable assets)...
+[2019.06.06-08.24.54:559][301]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91.T91]
+[2019.06.06-08.24.54:569][301]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91.T91_0]
+[2019.06.06-08.24.54:569][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91]
+[2019.06.06-08.24.54:593][301]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Auto106E5ECBD469EB6C15D8E53823336306F.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Auto1.uasset'
+[2019.06.06-08.24.54:593][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle] ([1] browsable assets)...
+[2019.06.06-08.24.54:593][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle]
+[2019.06.06-08.24.54:622][301]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91rifle_Auto1359D857F4FFD7DED760764BFA0FF2D7D.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle_Auto1.uasset'
+[2019.06.06-08.24.54:623][301]LogFileHelpers: Auto-saving content packages took 0.132
+[2019.06.06-08.25.37:400][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.26.01:405][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.26.03:265][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.26.06:014][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.26.42:884][858]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.06-08.27.07:987][267]LogEditorFactories: Performing atomic reimport of [C:/Users/Bruce/Dropbox/T91/T91.fbx]
+[2019.06.06-08.27.08:030][267]LogFbx: Loading FBX Scene from C:/Users/Bruce/Dropbox/T91/T91.fbx
+[2019.06.06-08.27.08:064][267]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.06-08.27.08:071][267]LogFbx: Warning: Triangulating static mesh T91rifle
+[2019.06.06-08.27.08:209][267]LogStaticMesh: Building static mesh T91...
+[2019.06.06-08.27.08:260][267]LogStaticMesh: Built static mesh [0.05s] /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91.T91
+[2019.06.06-08.27.08:268][267]LogStaticMesh: Warning: T91 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.06-08.27.08:268][267]LogStaticMesh: Warning: T91 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.06-08.27.08:288][267]LogEditorFactories: -- imported successfully
+[2019.06.06-08.27.08:299][267]FBXImport: Warning: T91 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.06-08.27.08:299][267]FBXImport: Warning: T91 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.06-08.27.16:370][605]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.06-08.27.16:378][605]LogSlate: Window 'T91rifle*' being destroyed
+[2019.06.06-08.28.03:550][262]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/T91.fbx)
+[2019.06.06-08.28.03:564][262]LogFbx: Loading FBX Scene from ../../../../../../Users/Bruce/Dropbox/T91/T91.fbx
+[2019.06.06-08.28.03:597][262]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.06-08.28.23:488][262]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.06-08.28.23:538][262]LogFbx: =================================================
+[2019.06.06-08.28.23:538][262]LogFbx: Dumping Node START [T91rifle] 
+[2019.06.06-08.28.23:538][262]LogFbx: 	Total Deformer Count 62803656.
+[2019.06.06-08.28.23:538][262]LogFbx: 		[Node 1] Armature.002 (Type Skin).
+[2019.06.06-08.28.23:538][262]LogFbx: =================================================
+[2019.06.06-08.28.23:538][262]LogFbx: 	Attribute (Cylinder.001) Type (4).
+[2019.06.06-08.28.23:538][262]LogFbx: 		[Node Attribute Child 1] T91rifle (Type Mesh).
+[2019.06.06-08.28.23:538][262]LogFbx: Dumping Node END [T91rifle]
+[2019.06.06-08.28.23:538][262]LogFbx: =================================================
+[2019.06.06-08.28.23:538][262]LogFbx: Dumping Node START [T91rifle] 
+[2019.06.06-08.28.23:538][262]LogFbx: 	Total Deformer Count 62800352.
+[2019.06.06-08.28.23:538][262]LogFbx: 		[Node 1] Armature.002 (Type Skin).
+[2019.06.06-08.28.23:538][262]LogFbx: =================================================
+[2019.06.06-08.28.23:538][262]LogFbx: 	Attribute (Cylinder.001) Type (4).
+[2019.06.06-08.28.23:538][262]LogFbx: 		[Node Attribute Child 1] T91rifle (Type Mesh).
+[2019.06.06-08.28.23:538][262]LogFbx: Dumping Node END [T91rifle]
+[2019.06.06-08.28.23:539][262]LogFbx: Valid bind pose for Pose (Cylinder.001) - T91rifle
+[2019.06.06-08.28.23:541][262]LogFbx: Triangulating skeletal mesh T91rifle
+[2019.06.06-08.28.23:645][262]LogFbx: Warning: Bones digested - 10  Depth of hierarchy - 5
+[2019.06.06-08.28.23:688][262]LogSkeletalMesh: Section 0: 2767 vertices, 8 active bones
+[2019.06.06-08.28.23:689][262]LogSkeletalMesh: Section 0: Material=0, 2359 triangles
+[2019.06.06-08.28.23:690][262]LogSkeletalMesh: Building Skeletal Mesh T91...
+[2019.06.06-08.28.23:697][262]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91.T91
+[2019.06.06-08.28.23:700][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Skeleton'
+[2019.06.06-08.28.23:701][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Skeleton'
+[2019.06.06-08.28.23:704][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_PhysicsAsset'
+[2019.06.06-08.28.23:704][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_PhysicsAsset'
+[2019.06.06-08.28.23:713][262]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Weapons/T91/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.06-08.28.23:718][262]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.28.23:757][262]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.06-08.28.23:757][262]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.06-08.28.23:757][262]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.06-08.28.23:757][262]LogFbx: =================================================
+[2019.06.06-08.28.23:757][262]LogFbx: Dumping Node START [T91rifle] 
+[2019.06.06-08.28.23:757][262]LogFbx: 	Total Deformer Count 64041584.
+[2019.06.06-08.28.23:757][262]LogFbx: 		[Node 1] Armature.002 (Type Skin).
+[2019.06.06-08.28.23:757][262]LogFbx: =================================================
+[2019.06.06-08.28.23:757][262]LogFbx: 	Attribute (Cylinder.001) Type (4).
+[2019.06.06-08.28.23:757][262]LogFbx: 		[Node Attribute Child 1] T91rifle (Type Mesh).
+[2019.06.06-08.28.23:757][262]LogFbx: Dumping Node END [T91rifle]
+[2019.06.06-08.28.23:758][262]LogFbx: =================================================
+[2019.06.06-08.28.23:758][262]LogFbx: Dumping Node START [T91rifle] 
+[2019.06.06-08.28.23:758][262]LogFbx: 	Total Deformer Count 64041192.
+[2019.06.06-08.28.23:758][262]LogFbx: 		[Node 1] Armature.002 (Type Skin).
+[2019.06.06-08.28.23:758][262]LogFbx: =================================================
+[2019.06.06-08.28.23:758][262]LogFbx: 	Attribute (Cylinder.001) Type (4).
+[2019.06.06-08.28.23:758][262]LogFbx: 		[Node Attribute Child 1] T91rifle (Type Mesh).
+[2019.06.06-08.28.23:758][262]LogFbx: Dumping Node END [T91rifle]
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:758][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(0) Armature_002
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(1) PistalGrip
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(2) UpperReceiver
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(3) Magzine
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(4) ammo
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(5) FrontSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(6) RearSight
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(7) Stock
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(8) chargingHandle
+[2019.06.06-08.28.23:759][262]LogFbx: SortedLinks :(9) bolt
+[2019.06.06-08.28.23:762][262]LogFbx: Parsing AnimStack Armature.002|Armature.002Action.001
+[2019.06.06-08.28.23:764][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Armature_002Action_001'
+[2019.06.06-08.28.23:764][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Armature_002Action_001'
+[2019.06.06-08.28.23:805][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Armature_002Action_001.T91_Anim_Armature_002_Armature_002Action_001
+[2019.06.06-08.28.23:811][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_Armature_002Action_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.23:825][262]LogFbx: Parsing AnimStack Armature.002|Dry
+[2019.06.06-08.28.23:826][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Dry'
+[2019.06.06-08.28.23:827][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Dry'
+[2019.06.06-08.28.23:870][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Dry.T91_Anim_Armature_002_Dry
+[2019.06.06-08.28.23:871][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_Dry) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.23:877][262]LogFbx: Parsing AnimStack Armature.002|Eject
+[2019.06.06-08.28.23:878][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Eject'
+[2019.06.06-08.28.23:878][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Eject'
+[2019.06.06-08.28.23:920][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Eject.T91_Anim_Armature_002_Eject
+[2019.06.06-08.28.23:921][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_Eject) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.23:925][262]LogFbx: Parsing AnimStack Armature.002|EjectEmpty
+[2019.06.06-08.28.23:926][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_EjectEmpty'
+[2019.06.06-08.28.23:926][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_EjectEmpty'
+[2019.06.06-08.28.23:969][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_EjectEmpty.T91_Anim_Armature_002_EjectEmpty
+[2019.06.06-08.28.23:969][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_EjectEmpty) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.23:973][262]LogFbx: Parsing AnimStack Armature.002|Fire
+[2019.06.06-08.28.23:974][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Fire'
+[2019.06.06-08.28.23:975][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Fire'
+[2019.06.06-08.28.24:117][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Fire.T91_Anim_Armature_002_Fire
+[2019.06.06-08.28.24:118][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_Fire) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.24:122][262]LogFbx: Parsing AnimStack Armature.002|Long
+[2019.06.06-08.28.24:123][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Long'
+[2019.06.06-08.28.24:123][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Long'
+[2019.06.06-08.28.24:526][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Long.T91_Anim_Armature_002_Long
+[2019.06.06-08.28.24:526][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_Long) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.24:533][262]LogFbx: Parsing AnimStack Armature.002|PullHandle
+[2019.06.06-08.28.24:535][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_PullHandle'
+[2019.06.06-08.28.24:535][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_PullHandle'
+[2019.06.06-08.28.25:747][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_PullHandle.T91_Anim_Armature_002_PullHandle
+[2019.06.06-08.28.25:747][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_PullHandle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.25:761][262]LogFbx: Parsing AnimStack Armature.002|Ready
+[2019.06.06-08.28.25:762][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Ready'
+[2019.06.06-08.28.25:763][262]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Ready'
+[2019.06.06-08.28.25:815][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Ready.T91_Anim_Armature_002_Ready
+[2019.06.06-08.28.25:816][262]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.T91_Anim_Armature_002_Ready) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.06-08.28.25:822][262]LogSkeletalMesh: Building Skeletal Mesh T91...
+[2019.06.06-08.28.25:833][262]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91.T91
+[2019.06.06-08.28.25:852][262]LogSkeletalMesh: Building Skeletal Mesh T91...
+[2019.06.06-08.28.25:862][262]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91.T91
+[2019.06.06-08.28.30:255][465]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Weapons/T91/Material.Material
+[2019.06.06-08.28.30:281][465]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.06-08.28.30:888][465]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.06-08.28.30:893][465]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.06-08.28.30:953][465]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.06-08.28.31:040][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.06-08.28.35:498][620]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.06-08.28.35:555][620]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.06-08.28.39:952][708]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.06-08.28.40:421][720]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.06.06-08.28.42:037][781]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.06.06-08.28.42:061][781]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.06-08.28.42:117][781]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.28.42:123][781]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.06-08.28.42:161][781]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.06-08.28.43:901][845]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.06.06-08.28.44:297][863]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.06-08.28.45:036][894]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.06-08.28.45:037][894]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.06-08.28.45:106][894]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.06-08.28.45:106][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.06-08.28.46:523][951]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.06-08.28.46:827][965]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.06-08.28.47:601][997]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.06.06-08.28.48:157][ 18]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.06.06-08.28.48:348][ 18]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.06.06-08.28.48:632][ 18]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.06.06-08.28.48:948][ 23]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.06.06-08.28.49:608][ 48]LogMaterialEditor: Saving and Compiling material Material
+[2019.06.06-08.28.50:327][ 48]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.06.06-08.28.50:327][ 48]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.06.06-08.28.50:327][ 48]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.06.06-08.28.50:366][ 48]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.06-08.28.50:522][ 48]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.28.50:592][ 48]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.06.06-08.28.50:704][ 48]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.06.06-08.28.50:704][ 48]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material, compiling. 
+[2019.06.06-08.28.59:801][ 48]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.06-08.28.59:802][ 48]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.06-08.28.59:803][ 48]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.06-08.28.59:808][ 48]TextureStreamingBuild: Display: Compiling optional shaders took 9.117 seconds.
+[2019.06.06-08.29.09:481][ 48]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.06-08.29.09:481][ 48]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.06-08.29.09:481][ 48]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.06-08.29.09:482][ 48]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.06-08.29.09:623][ 48]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/MaterialECE0583745070C4A3E5FBB8A5A2C185E.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/Material.uasset'
+[2019.06.06-08.29.09:651][ 48]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.06.06-08.29.09:651][ 48]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.06.06-08.29.09:651][ 48]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.06-08.29.09:652][ 48]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.06.06-08.29.09:652][ 48]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.06-08.29.09:652][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.06-08.29.09:652][ 48]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.06-08.29.09:664][ 49]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.722 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.06-08.29.13:203][195]LogSlate: Window 'Material' being destroyed
+[2019.06.06-08.29.13:217][195]LogSlate: Window 'Material' being destroyed
+[2019.06.06-08.29.17:833][464]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle
+[2019.06.06-08.30.31:358][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.31.15:232][833]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-08.31.26:848][278]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2019.06.06-08.31.33:292][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.32.01:802][707]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-08.32.47:891][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.34.02:801][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.34.04:049][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.34.04:324][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMapB7C4023A4F8240E6EC5FB8B1785F6E49.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.06-08.34.04:357][260]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.277
+[2019.06.06-08.34.04:429][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/AdjTgt21F479A747086AB5ACDD058C1970CD9B.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/AdjTgt.uasset'
+[2019.06.06-08.34.04:551][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T9167B2031644AA06DAA346A18443F7DA71.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91.uasset'
+[2019.06.06-08.34.04:627][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91rifleD6F923654B432BDD543A729DE256C97A.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.uasset'
+[2019.06.06-08.34.04:643][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Skeleton2B2B73194ACBABA9FB5955ADB04A0041.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Skeleton.uasset'
+[2019.06.06-08.34.04:718][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_PhysicsAssetD1CCF02040D1215170C79E8B98F794E9.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_PhysicsAsset.uasset'
+[2019.06.06-08.34.04:786][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_Armature_083865ADE412F36B67C41D7A818E48320.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Armature_002Action_001.uasset'
+[2019.06.06-08.34.04:853][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_Dry710B726944DD3925C8C7D8AEB680A2BC.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Dry.uasset'
+[2019.06.06-08.34.04:919][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_Eject269E6FC3478C9DFC8AD4139A653E5B2F.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Eject.uasset'
+[2019.06.06-08.34.04:985][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_EjectEmpty82668E654370D4547F7E0597B4852D55.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_EjectEmpty.uasset'
+[2019.06.06-08.34.05:050][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_Fire3744329A4D7C46CB3A5D4B9E90DC2DC3.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Fire.uasset'
+[2019.06.06-08.34.05:124][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_Long978FCBE4413250714036EB832AFF9213.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Long.uasset'
+[2019.06.06-08.34.05:199][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_PullHandle5DAC2BB5423D055366CC3E925320E739.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_PullHandle.uasset'
+[2019.06.06-08.34.05:271][260]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91_Anim_Armature_002_Ready9ECEDD6744243305A5A04887BCE714ED.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91_Anim_Armature_002_Ready.uasset'
+[2019.06.06-08.34.06:550][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.34.11:853][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.40.58:518][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.41.07:683][ 98]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.06-08.41.11:440][ 98]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.06.06-08.41.21:923][ 98]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.06.06-08.41.42:968][151]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap215A910246EB09DBF61C8092F86430A3.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.06-08.41.43:343][151]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap_BuiltData556A55A4499CD0BDE4FCE2A72F21E4D0.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.06-08.48.15:247][908]LogSlate: Took 0.006351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.06-08.50.23:231][568]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/T91rifle'
+[2019.06.06-08.50.23:231][568]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/T91rifle'
+[2019.06.06-08.50.23:248][568]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/T91AnimBP'
+[2019.06.06-08.50.23:248][568]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/T91AnimBP'
+[2019.06.06-08.50.23:248][568]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'AnimBlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91AnimBP.T91AnimBP_C"''
+[2019.06.06-08.50.23:249][568]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'AnimBlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91AnimBP.T91AnimBP_C"',MemberName="PlayerMesh",MemberGuid=285AACFE47CE365E6CB58A9B6EC6CA2A)'
+[2019.06.06-08.50.23:249][568]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'AnimBlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91AnimBP.T91AnimBP_C"',MemberName="PlayerAnim",MemberGuid=F0A246534982CD875A15589E56D72091)'
+[2019.06.06-08.50.23:250][568]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPerson_AnimBP'
+[2019.06.06-08.50.23:250][568]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPerson_AnimBP'
+[2019.06.06-08.50.23:251][568]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'AnimBlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C"''
+[2019.06.06-08.50.56:039][128]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-08.50.56:105][128]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.50.56:105][128]LogBlueprint: Error: [Compiler T91rifle] In use pin  As Third Person Anim BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.06.06-08.50.56:106][128]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.50.56:106][128]LogBlueprint: Warning: [Compiler T91rifle] Could not find a variable named "PlayerAnim" in 'T91rifle'.
+Make sure 'T91rifle' has been compiled for  Set PlayerAnim
+[2019.06.06-08.50.56:106][128]LogBlueprint: Warning: [Compiler T91rifle] Could not find a variable named "PlayerMesh" in 'T91rifle'.
+Make sure 'T91rifle' has been compiled for  Set PlayerMesh
+[2019.06.06-08.50.56:106][128]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.50.56:106][128]LogBlueprint: Error: [Compiler T91rifle] In use pin  As T91Anim BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.06.06-08.50.56:106][128]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] Could not find a variable named "adjLeft" in 'T91rifle_C'.
+Make sure 'T91rifle_C' has been compiled for  Get adjLeft
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] Could not find a variable named "adjLeft" in 'T91rifle_C'.
+Make sure 'T91rifle_C' has been compiled for  Set adjLeft
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] Could not find a variable named "adjLeft" in 'T91rifle_C'.
+Make sure 'T91rifle_C' has been compiled for  Set adjLeft
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'RearSightRight' for  InputAction RearSightRight
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'RearSightLeft' for  InputAction RearSightLeft
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'ZoomIn' for  InputAction ZoomIn
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'ZoomOut' for  InputAction ZoomOut
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'FrontSightDown' for  InputAction FrontSightDown
+[2019.06.06-08.50.56:107][128]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'FrontSightUp' for  InputAction FrontSightUp
+[2019.06.06-08.50.56:110][128]LogBlueprint: Error: [Compiler T91rifle] The property associated with  Player Mesh  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle_C'
+[2019.06.06-08.50.56:110][128]LogBlueprint: Error: [Compiler T91rifle] The property associated with  Player Anim  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle_C'
+[2019.06.06-08.50.56:110][128]LogBlueprint: Error: [Compiler T91rifle] The property associated with  Adj Left  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle_C'
+[2019.06.06-08.50.56:110][128]LogBlueprint: Error: [Compiler T91rifle] The property associated with  Adj Left  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle_C'
+[2019.06.06-08.50.56:110][128]LogBlueprint: Error: [Compiler T91rifle] The property associated with  Adj Left  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle_C'
+[2019.06.06-08.50.56:365][128]LogBlueprint: Warning: [Compiler T91rifle] [2172.65] Compile of T91rifle failed. 11 Fatal Issue(s) 11 Warning(s) [in 325 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle)
+[2019.06.06-08.51.35:001][764]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-08.51.35:063][764]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.51.35:064][764]LogBlueprint: Error: [Compiler T91rifle] In use pin  As Third Person Anim BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.06.06-08.51.35:064][764]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.51.35:064][764]LogBlueprint: Warning: [Compiler T91rifle] Could not find a variable named "PlayerAnim" in 'T91rifle'.
+Make sure 'T91rifle' has been compiled for  Set PlayerAnim
+[2019.06.06-08.51.35:064][764]LogBlueprint: Warning: [Compiler T91rifle] Could not find a variable named "PlayerMesh" in 'T91rifle'.
+Make sure 'T91rifle' has been compiled for  Set PlayerMesh
+[2019.06.06-08.51.35:064][764]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.51.35:064][764]LogBlueprint: Error: [Compiler T91rifle] In use pin  As T91Anim BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.06.06-08.51.35:064][764]LogBlueprint: Error: [Compiler T91rifle] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.51.35:065][764]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'RearSightRight' for  InputAction RearSightRight
+[2019.06.06-08.51.35:065][764]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'RearSightLeft' for  InputAction RearSightLeft
+[2019.06.06-08.51.35:065][764]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'ZoomIn' for  InputAction ZoomIn
+[2019.06.06-08.51.35:065][764]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'ZoomOut' for  InputAction ZoomOut
+[2019.06.06-08.51.35:065][764]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'FrontSightDown' for  InputAction FrontSightDown
+[2019.06.06-08.51.35:065][764]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'FrontSightUp' for  InputAction FrontSightUp
+[2019.06.06-08.51.35:067][764]LogBlueprint: Error: [Compiler T91rifle] The property associated with  Player Mesh  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle_C'
+[2019.06.06-08.51.35:067][764]LogBlueprint: Error: [Compiler T91rifle] The property associated with  Player Anim  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle_C'
+[2019.06.06-08.51.35:263][764]LogBlueprint: Warning: [Compiler T91rifle] [2211.55] Compile of T91rifle failed. 8 Fatal Issue(s) 8 Warning(s) [in 261 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle)
+[2019.06.06-08.53.08:035][702]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP
+[2019.06.06-08.53.08:060][702]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.06-08.53.08:069][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.06-08.53.08:076][702]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.06.06-08.53.08:433][702]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.06-08.53.08:798][702]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.06.06-08.55.18:959][431]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91rifle.T91rifle_C"''
+[2019.06.06-08.55.18:961][431]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91rifle.T91rifle_C"',MemberName="isFiring",MemberGuid=8DBB260046116E51026FCB92EB7D1935)'
+[2019.06.06-08.55.18:964][431]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91rifle.T91rifle_C"',MemberName="isAdjRear",MemberGuid=7F414DF0472112236CA4518DDABD5EF1)'
+[2019.06.06-08.55.18:964][431]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91rifle.T91rifle_C"',MemberName="adjLeft",MemberGuid=4EE044F4468017E3ECFB038B57F5D37F)'
+[2019.06.06-08.55.18:967][431]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91rifle.T91rifle_C"',MemberName="isAdjFront",MemberGuid=B8EB925E482F45A87971BDB540E55A4C)'
+[2019.06.06-08.55.18:967][431]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91rifle.T91rifle_C"',MemberName="adjUp",MemberGuid=3652A33343A68C33E53179BF236694D3)'
+[2019.06.06-08.55.18:971][431]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/T91rifle.T91rifle_C"',MemberName="SkeletalMesh")'
+[2019.06.06-08.55.18:972][431]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'AnimBlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C"',MemberName="ClipEject",MemberGuid=6B16F9E94DA5487DF6F44687A7D27B0F)'
+[2019.06.06-08.55.26:687][786]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap_Auto24218C7864A57C8C44BE66B942D3C2611.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.06.06-08.55.26:690][786]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.282
+[2019.06.06-08.55.26:690][786]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.282
+[2019.06.06-08.55.26:694][786]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle] ([1] browsable assets)...
+[2019.06.06-08.55.26:733][786]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle]
+[2019.06.06-08.55.26:733][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle]
+[2019.06.06-08.55.26:818][786]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91rifle_Auto2FFB1337D4FBC63D2B32BCB8DA0A8F2E3.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle_Auto2.uasset'
+[2019.06.06-08.55.26:819][786]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP] ([1] browsable assets)...
+[2019.06.06-08.55.26:859][786]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP]
+[2019.06.06-08.55.26:859][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP]
+[2019.06.06-08.55.26:900][786]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91AminBP_Auto29DA9C9E24DECB19ED76B14A766111712.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP_Auto2.uasset'
+[2019.06.06-08.55.26:901][786]LogFileHelpers: Auto-saving content packages took 0.208
+[2019.06.06-08.55.45:944][118]LogLinker: Can't find file '/Game/Models/T91/T91_Anim_Armature_002_Long'
+[2019.06.06-08.55.45:945][118]LogLinker: Can't find file '/Game/Models/T91/T91_Anim_Armature_002_Long'
+[2019.06.06-08.55.45:945][118]LogProperty: Warning: ObjectProperty /Script/Engine.AnimNode_SequencePlayer:Sequence: unresolved reference to 'AnimSequence'"/Game/Models/T91/T91_Anim_Armature_002_Long.T91_Anim_Armature_002_Long"')'
+[2019.06.06-08.55.45:945][118]LogLinker: Can't find file '/Game/Models/T91/T91_Anim_Armature_002_Ready'
+[2019.06.06-08.55.45:946][118]LogLinker: Can't find file '/Game/Models/T91/T91_Anim_Armature_002_Ready'
+[2019.06.06-08.55.45:946][118]LogProperty: Warning: ObjectProperty /Script/Engine.AnimNode_SequencePlayer:Sequence: unresolved reference to 'AnimSequence'"/Game/Models/T91/T91_Anim_Armature_002_Ready.T91_Anim_Armature_002_Ready"')'
+[2019.06.06-08.55.45:946][118]LogLinker: Can't find file '/Game/Models/T91/T91_Anim_Armature_002_Fire'
+[2019.06.06-08.55.45:947][118]LogLinker: Can't find file '/Game/Models/T91/T91_Anim_Armature_002_Fire'
+[2019.06.06-08.55.45:947][118]LogProperty: Warning: ObjectProperty /Script/Engine.AnimNode_SequencePlayer:Sequence: unresolved reference to 'AnimSequence'"/Game/Models/T91/T91_Anim_Armature_002_Fire.T91_Anim_Armature_002_Fire"')'
+[2019.06.06-08.56.06:450][168]BlueprintLog: New page: Compile T91AminBP
+[2019.06.06-08.56.06:497][168]LogBlueprint: Error: [Compiler T91AminBP] In use pin  Player Anim  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.06-08.56.06:497][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "ClipEject" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get ClipEject
+[2019.06.06-08.56.06:497][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "SkeletalMesh" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get SkeletalMesh
+[2019.06.06-08.56.06:497][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "PlayerMesh" in 'T91AminBP_C'.
+Make sure 'T91AminBP_C' has been compiled for  Get PlayerMesh
+[2019.06.06-08.56.06:498][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "adjUp" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get adjUp
+[2019.06.06-08.56.06:498][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "isAdjFront" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get isAdjFront
+[2019.06.06-08.56.06:498][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "adjLeft" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get adjLeft
+[2019.06.06-08.56.06:498][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "isAdjRear" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get isAdjRear
+[2019.06.06-08.56.06:498][168]LogBlueprint: Error: [Compiler T91AminBP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.56.06:498][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "isFiring" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get isFiring
+[2019.06.06-08.56.06:498][168]LogBlueprint: Error: [Compiler T91AminBP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.56.06:498][168]LogBlueprint: Error: [Compiler T91AminBP] In use pin  As T91rifle  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.06.06-08.56.06:519][168]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-08.56.06:519][168]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-08.56.06:520][168]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-08.56.06:520][168]LogBlueprint: Error: [Compiler T91AminBP] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2019.06.06-08.56.06:521][168]LogBlueprint: Error: [Compiler T91AminBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2019.06.06-08.56.06:524][168]LogBlueprint: Error: [Compiler T91AminBP] In use pin  Player Anim  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.06-08.56.06:524][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "ClipEject" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get ClipEject
+[2019.06.06-08.56.06:524][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "SkeletalMesh" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get SkeletalMesh
+[2019.06.06-08.56.06:525][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "PlayerMesh" in 'T91AminBP_C'.
+Make sure 'T91AminBP_C' has been compiled for  Get PlayerMesh
+[2019.06.06-08.56.06:525][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "adjUp" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get adjUp
+[2019.06.06-08.56.06:525][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "isAdjFront" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get isAdjFront
+[2019.06.06-08.56.06:525][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "adjLeft" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get adjLeft
+[2019.06.06-08.56.06:525][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "isAdjRear" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get isAdjRear
+[2019.06.06-08.56.06:525][168]LogBlueprint: Error: [Compiler T91AminBP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.56.06:525][168]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "isFiring" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get isFiring
+[2019.06.06-08.56.06:525][168]LogBlueprint: Error: [Compiler T91AminBP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.06.06-08.56.06:526][168]LogBlueprint: Error: [Compiler T91AminBP] In use pin  As T91rifle  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.06.06-08.56.06:527][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Clip Eject  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:527][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Skeletal Mesh  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:527][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Adj Up  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:527][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Is Adj Front  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:527][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Adj Left  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:527][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Is Adj Rear  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:527][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Is Firing  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:528][168]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Player Mesh  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-08.56.06:701][168]LogBlueprint: Warning: [Compiler T91AminBP] [2482.99] Compile of T91AminBP failed. 21 Fatal Issue(s) 16 Warning(s) [in 251 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP)
+[2019.06.06-09.03.15:644][754]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.06.06-09.03.28:183][184]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.06.06-09.03.33:665][358]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.06.06-09.03.33:682][358]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.06.06-09.04.13:269][146]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP
+[2019.06.06-09.04.13:295][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.06-09.04.13:660][146]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.06-09.06.15:148][872]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/reloading_inPlace.reloading_inPlace
+[2019.06.06-09.06.15:167][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.06-09.06.15:217][872]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.06-09.06.15:852][872]LogRenderer: Reallocating scene render targets to support 912x436 Format 10 NumSamples 1 (Frame:1).
+[2019.06.06-09.06.15:852][872]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.06-09.08.26:259][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-09.08.41:318][727]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.06-09.10.12:079][731]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/reloading_inPlace7D81CE9E49D9B08658833C8E4EDA1EEF.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/reloading_inPlace.uasset'
+[2019.06.06-09.12.21:374][133]BlueprintLog: New page: Compile SWAT_AnimBP
+[2019.06.06-09.12.28:628][386]BlueprintLog: New page: Compile T91AminBP
+[2019.06.06-09.12.28:675][386]LogBlueprint: Error: [Compiler T91AminBP] In use pin  Player Anim  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.06-09.12.28:675][386]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "ClipEject" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get ClipEject
+[2019.06.06-09.12.28:680][386]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-09.12.28:680][386]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-09.12.28:680][386]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-09.12.28:681][386]LogBlueprint: Error: [Compiler T91AminBP] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2019.06.06-09.12.28:681][386]LogBlueprint: Error: [Compiler T91AminBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2019.06.06-09.12.28:685][386]LogBlueprint: Error: [Compiler T91AminBP] In use pin  Player Anim  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.06.06-09.12.28:685][386]LogBlueprint: Warning: [Compiler T91AminBP] Could not find a variable named "ClipEject" in 'T91AminBP'.
+Make sure 'T91AminBP' has been compiled for  Get ClipEject
+[2019.06.06-09.12.28:687][386]LogBlueprint: Error: [Compiler T91AminBP] The property associated with  Clip Eject  could not be found in '/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP_C'
+[2019.06.06-09.12.28:881][386]LogBlueprint: Warning: [Compiler T91AminBP] [3465.17] Compile of T91AminBP failed. 8 Fatal Issue(s) 2 Warning(s) [in 253 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP)
+[2019.06.06-09.13.01:556][659]BlueprintLog: New page: Compile T91AminBP
+[2019.06.06-09.13.01:600][659]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-09.13.01:600][659]LogBlueprint: Error: [Compiler T91AminBP] Play (None)  references an unknown sequence
+[2019.06.06-09.13.01:601][659]LogBlueprint: Error: [Compiler T91AminBP] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2019.06.06-09.13.01:601][659]LogBlueprint: Error: [Compiler T91AminBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2019.06.06-09.13.01:794][659]LogBlueprint: Warning: [Compiler T91AminBP] [3498.08] Compile of T91AminBP failed. 4 Fatal Issue(s) 0 Warning(s) [in 237 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.T91AminBP)
+[2019.06.06-09.13.52:004][668]BlueprintLog: New page: Compile T91AminBP
+[2019.06.06-09.18.26:037][490]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-09.18.26:092][490]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'RearSightRight' for  InputAction RearSightRight
+[2019.06.06-09.18.26:092][490]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'RearSightLeft' for  InputAction RearSightLeft
+[2019.06.06-09.18.26:092][490]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'ZoomIn' for  InputAction ZoomIn
+[2019.06.06-09.18.26:092][490]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'ZoomOut' for  InputAction ZoomOut
+[2019.06.06-09.18.26:092][490]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'FrontSightDown' for  InputAction FrontSightDown
+[2019.06.06-09.18.26:092][490]LogBlueprint: Warning: [Compiler T91rifle] InputAction Event references unknown Action 'FrontSightUp' for  InputAction FrontSightUp
+[2019.06.06-09.18.26:332][490]LogBlueprint: Warning: [Compiler T91rifle] [3822.62] Compile of T91rifle successful, but with 6 Warning(s) [in 294 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.T91rifle)
+[2019.06.06-09.18.54:235][510]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.06-09.18.54:404][512]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.HW4FPS
+[2019.06.06-09.18.54:404][512]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.06.06-09.18.54:404][512]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.06.06-09.18.54:404][512]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.06.06-09.18.54:444][513]LogTemp: BranchPath = DESKTOP-ROG/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-ROG/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.06.06-09.18.54:444][513]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bruce\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.06.06-09.22.40:672][864]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.06-09.22.40:690][864]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.06-09.22.41:854][904]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-09.22.49:799][200]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-09.22.49:835][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.22.49:836][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-09.22.49:837][200]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 上午1:22:49)
+[2019.06.06-09.22.49:849][200]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.06-09.22.49:864][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014890s)
+[2019.06.06-09.22.49:865][200]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.06-09.22.49:865][200]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2019.06.06-09.22.49:866][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016579s)
+[2019.06.06-09.22.49:949][200]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.06-09.22.49:967][200]LogInit: FAudioDevice initialized.
+[2019.06.06-09.22.50:107][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.06-09.22.50:109][200]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.06-17.22.50
+[2019.06.06-09.22.50:110][200]LogWorld: Bringing up level for play took: 0.002227
+[2019.06.06-09.22.50:133][200]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.06.06-09.22.50:138][200]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.388
+[2019.06.06-09.22.50:139][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.22.59:069][955]LogBlueprintUserMessages: [TestTarget_2] 136.586899
+[2019.06.06-09.22.59:768][ 15]LogBlueprintUserMessages: [TestTarget_2] 137.00795
+[2019.06.06-09.22.59:991][ 34]LogBlueprintUserMessages: [TestTarget_2] 79.165123
+[2019.06.06-09.23.00:171][ 49]LogBlueprintUserMessages: [TestTarget_2] 49.956997
+[2019.06.06-09.23.00:345][ 63]LogBlueprintUserMessages: [TestTarget_2] 61.433838
+[2019.06.06-09.23.00:519][ 78]LogBlueprintUserMessages: [TestTarget_2] 32.2659
+[2019.06.06-09.23.02:532][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.23.02:532][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-09.23.02:585][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-09.23.02:586][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.23.02:652][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-09.23.02:676][250]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.06.06-09.23.23:018][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-09.23.26:515][106]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMapA35D661A4C82B13054DA71A9121F370F.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.06-09.23.26:557][106]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.310
+[2019.06.06-09.23.26:716][106]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/SWAT_AnimBPDAA6F6D04A4ABD1E10F38ABAA9E5403E.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset'
+[2019.06.06-09.23.26:743][106]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Swat_Skeleton8BB756394D385E84C700F88F0494F63A.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2019.06.06-09.23.26:868][106]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91rifle85BE3F284CF9140673F54DB3CE09A16C.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91rifle.uasset'
+[2019.06.06-09.23.26:987][106]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91AminBP7DEAE23041C990DB8B78489126ECD7B6.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Weapons/T91/T91AminBP.uasset'
+[2019.06.06-09.23.37:106][892]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2019.06.06-09.23.37:125][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.06-09.23.37:182][892]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.06-09.23.37:594][893]LogRenderer: Reallocating scene render targets to support 912x496 Format 10 NumSamples 1 (Frame:1).
+[2019.06.06-09.24.11:044][541]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.06.06-09.24.33:085][446]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.06-09.24.54:024][341]BlueprintLog: New page: Compile T91rifle
+[2019.06.06-09.24.56:671][460]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-09.24.56:736][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.24.56:736][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-09.24.56:736][460]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 上午1:24:56)
+[2019.06.06-09.24.56:736][460]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.06-09.24.56:751][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015058s)
+[2019.06.06-09.24.56:753][460]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.06-09.24.56:753][460]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2019.06.06-09.24.56:753][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016834s)
+[2019.06.06-09.24.56:808][460]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.06-09.24.56:824][460]LogInit: FAudioDevice initialized.
+[2019.06.06-09.24.56:859][460]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.06-09.24.56:861][460]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.06-17.24.56
+[2019.06.06-09.24.56:861][460]LogWorld: Bringing up level for play took: 0.001777
+[2019.06.06-09.24.56:875][460]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.348
+[2019.06.06-09.24.56:875][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.24.57:631][518]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01B0
+[2019.06.06-09.24.57:631][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped Weapon". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Fire
+[2019.06.06-09.25.03:015][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-09.25.29:937][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.25.29:937][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-09.25.29:991][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-09.25.29:992][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.06-09.25.30:059][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-09.25.30:075][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-09.25.30:104][114]LogSlate: Took 0.002799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.06-09.25.30:124][115]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.06.06-09.25.50:972][ 42]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.06-09.26.17:146][  9]LogRenderer: Reallocating scene render targets to support 912x540 Format 10 NumSamples 1 (Frame:12704).
+[2019.06.06-09.26.41:750][893]LogRenderer: Reallocating scene render targets to support 912x672 Format 10 NumSamples 1 (Frame:973).
+[2019.06.06-09.27.21:805][259]Cmd: TRANSACTION UNDO
+[2019.06.06-09.27.21:805][259]LogEditorTransaction: Undo Reset to Default
+[2019.06.06-09.27.21:806][259]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.06-09.27.22:589][259]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.782 s
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: 
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: 
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: Stack: 
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc904e85e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8db9fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbcacf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbb140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8dc1b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8dc5f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbf726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbb0b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbaa786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8e4b0b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc7da6773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc7da67b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.06-09.27.22:589][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8efd206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8f014c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc7da77562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc7da675e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8f0169f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc8f009a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc93eadaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc93ea0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc93eb01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc93e9ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffcd261681d USER32.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffcd2616212 USER32.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffc93eb1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ff740755546 UE4Editor.exe!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ff74076596c UE4Editor.exe!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ff7407659ea UE4Editor.exe!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ff7407748da UE4Editor.exe!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ff74077659a UE4Editor.exe!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffcd1627bd4 KERNEL32.DLL!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: [Callstack] 0x00007ffcd35ace71 ntdll.dll!UnknownFunction []
+[2019.06.06-09.27.22:590][259]LogOutputDevice: Error: 
+[2019.06.06-09.27.22:598][259]LogStats:                SubmitErrorReport -  0.000 s
