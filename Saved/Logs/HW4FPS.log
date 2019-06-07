@@ -4678,3 +4678,1198 @@ Make sure 'T91rifle' has been compiled for  Get SkeletalMesh
 [2019.06.07-00.11.04:690][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.06.07-00.11.07:119][847]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap49C4463349734F6ABC15E2A7D99554D1.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.06.07-00.11.12:364][847]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap_BuiltDataCE3816E74EB6CF74CB54ADADAE017774.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.07-00.21.05:238][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.051
+[2019.06.07-00.21.05:240][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.06.07-00.21.05:284][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.06.07-00.21.05:284][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.06.07-00.21.05:396][672]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonCharacter_Auto0F8B07F9C41370FC607118B8AB2D5200B.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset'
+[2019.06.07-00.21.05:398][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__ADDONS/T91/T91rifle] ([1] browsable assets)...
+[2019.06.07-00.21.05:437][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/__ADDONS/T91/T91rifle.T91rifle]
+[2019.06.07-00.21.05:438][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/T91rifle]
+[2019.06.07-00.21.05:438][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/T91rifle" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/T91rifle_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2019.06.07-00.21.05:541][672]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91rifle_Auto01886C8E34D2929AEB5430CAE107F682E.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/T91rifle_Auto0.uasset'
+[2019.06.07-00.21.05:543][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ADDONS/Landscapce/Textures/grass_Mat] ([1] browsable assets)...
+[2019.06.07-00.21.05:543][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/Landscapce/Textures/grass_Mat]
+[2019.06.07-00.21.05:578][672]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/grass_Mat_Auto09F86841C48F2F0AE717E71A4EB864843.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/Landscapce/Textures/grass_Mat_Auto0.uasset'
+[2019.06.07-00.21.05:578][672]LogFileHelpers: Auto-saving content packages took 0.339
+[2019.06.07-00.29.39:909][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-00.30.23:117][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.20.48:422][141]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/175Tgt.fbx)
+[2019.06.07-01.20.48:471][141]LogFbx: Loading FBX Scene from ../../../../../../Users/Bruce/Dropbox/T91/175Tgt.fbx
+[2019.06.07-01.20.48:487][141]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.07-01.21.08:411][141]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.07-01.21.08:462][141]LogFbx: =================================================
+[2019.06.07-01.21.08:462][141]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.21.08:462][141]LogFbx: 	Total Deformer Count 1944928896.
+[2019.06.07-01.21.08:462][141]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.21.08:462][141]LogFbx: =================================================
+[2019.06.07-01.21.08:462][141]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.21.08:462][141]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.21.08:462][141]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.21.08:462][141]LogFbx: =================================================
+[2019.06.07-01.21.08:462][141]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.21.08:462][141]LogFbx: 	Total Deformer Count 1944928896.
+[2019.06.07-01.21.08:462][141]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.21.08:462][141]LogFbx: =================================================
+[2019.06.07-01.21.08:462][141]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.21.08:462][141]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.21.08:462][141]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.21.08:463][141]LogFbx: Valid bind pose for Pose (Plane) - Plane
+[2019.06.07-01.21.08:474][141]LogMaterial: Warning: Material /Game/__ADDONS/T91/175Tgt1.175Tgt1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.07-01.21.08:478][141]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.08:532][141]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.08:594][141]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.07-01.21.08:594][141]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.07-01.21.08:594][141]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.07-01.21.08:594][141]LogFbx: Triangulating skeletal mesh Plane
+[2019.06.07-01.21.08:606][141]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.06.07-01.21.08:664][141]LogSkeletalMesh: Section 0: 4 vertices, 1 active bones
+[2019.06.07-01.21.08:665][141]LogSkeletalMesh: Section 0: Material=0, 2 triangles
+[2019.06.07-01.21.08:666][141]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.21.08:668][141]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.21.08:671][141]LogLinker: Can't find file '/Game/__ADDONS/T91/175Tgt_Skeleton'
+[2019.06.07-01.21.08:671][141]LogLinker: Can't find file '/Game/__ADDONS/T91/175Tgt_Skeleton'
+[2019.06.07-01.21.08:680][141]LogLinker: Can't find file '/Game/__ADDONS/T91/175Tgt_PhysicsAsset'
+[2019.06.07-01.21.08:680][141]LogLinker: Can't find file '/Game/__ADDONS/T91/175Tgt_PhysicsAsset'
+[2019.06.07-01.21.08:715][141]LogFbx: =================================================
+[2019.06.07-01.21.08:715][141]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.21.08:715][141]LogFbx: 	Total Deformer Count -635271232.
+[2019.06.07-01.21.08:715][141]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.21.08:715][141]LogFbx: =================================================
+[2019.06.07-01.21.08:715][141]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.21.08:715][141]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.21.08:715][141]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.21.08:715][141]LogFbx: =================================================
+[2019.06.07-01.21.08:715][141]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.21.08:715][141]LogFbx: 	Total Deformer Count -635271232.
+[2019.06.07-01.21.08:715][141]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.21.08:715][141]LogFbx: =================================================
+[2019.06.07-01.21.08:715][141]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.21.08:715][141]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.21.08:715][141]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.21.08:716][141]LogFbx: SortedLinks :(0) Bone
+[2019.06.07-01.21.08:716][141]LogFbx: Parsing AnimStack Armature|Hit
+[2019.06.07-01.21.08:718][141]LogLinker: Can't find file '/Game/__ADDONS/T91/175Tgt_Anim'
+[2019.06.07-01.21.08:718][141]LogLinker: Can't find file '/Game/__ADDONS/T91/175Tgt_Anim'
+[2019.06.07-01.21.08:736][141]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/__ADDONS/T91/175Tgt_Anim.175Tgt_Anim
+[2019.06.07-01.21.08:739][141]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.175Tgt_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.07-01.21.08:759][141]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.21.08:759][141]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.21.08:770][141]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.21.08:770][141]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.21.08:778][141]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/175Tgt.png)
+[2019.06.07-01.21.08:780][141]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.07-01.21.08:780][141]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.07-01.21.08:871][141]LogTexture: Display: Building textures: 175Tgt_0 (AutoDXT, 1024X1024)
+[2019.06.07-01.21.14:709][320]LogAssetEditorManager: Opening Asset editor for Material /Game/__ADDONS/T91/175Tgt1.175Tgt1
+[2019.06.07-01.21.14:718][320]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.14:960][320]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.15:049][320]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.15:152][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.07-01.21.20:581][473]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.21.22:089][517]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.21.23:640][541]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.21.23:640][541]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.21.23:640][541]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.21.23:641][541]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.21.23:641][541]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.21.23:641][541]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.21.24:235][559]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.21.24:462][565]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.21.25:527][594]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.25:581][594]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.07-01.21.25:588][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.21.25:630][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.07-01.21.25:640][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.21.27:094][635]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.06.07-01.21.27:415][645]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.21.27:954][662]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.21.28:461][678]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.21.28:666][684]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.28:734][684]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.21.28:796][685]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.06.07-01.21.29:158][697]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.21.29:280][700]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.21.30:683][741]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.21.30:829][746]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.21.30:859][747]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.21.31:165][749]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.21.31:264][752]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.21.31:328][753]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.31:380][753]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.07-01.21.32:014][773]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.21.32:368][784]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.21.32:975][804]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.21.33:376][817]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.21.34:096][839]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.21.34:605][856]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.21.34:698][859]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.21.35:181][875]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.21.35:707][893]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.21.35:826][897]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-01.21.36:347][915]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-01.21.36:495][920]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-01.21.36:955][936]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.07-01.21.38:663][991]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.07-01.21.39:259][ 11]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.07-01.21.39:610][ 23]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.06.07-01.21.41:020][ 66]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.07-01.21.41:210][ 72]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.06.07-01.21.42:126][104]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.06.07-01.21.43:768][157]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.06.07-01.21.43:830][159]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.07-01.21.44:047][166]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.07-01.21.45:409][208]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.06.07-01.21.46:190][233]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.06.07-01.21.46:284][236]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.06.07-01.21.46:903][256]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.06.07-01.21.47:258][267]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.47:322][267]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.21.47:691][278]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.21.48:041][290]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.21.48:662][309]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.48:759][309]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.07-01.21.48:766][309]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.48:858][309]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.07-01.21.48:858][309]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.07-01.21.48:867][309]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.51:277][379]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.51:400][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.21.54:215][468]LogMaterialEditor: Applying material 175Tgt1
+[2019.06.07-01.21.57:063][468]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.57:455][468]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.07-01.21.57:498][468]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.57:613][468]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.21.57:836][468]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 175Tgt1, compiling. 
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 175
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 171
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 169
+[2019.06.07-01.22.16:098][468]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.06.07-01.22.16:099][468]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.06.07-01.22.16:100][468]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.22.16:101][468]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.22.16:108][468]TextureStreamingBuild: Display: Compiling optional shaders took 18.285 seconds.
+[2019.06.07-01.22.16:579][479]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.07-01.22.18:586][542]LogMaterialEditor: Saving and Compiling material 175Tgt1
+[2019.06.07-01.22.36:099][542]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.06.07-01.22.36:099][542]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.07-01.22.36:099][542]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.06.07-01.22.36:099][542]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.07-01.22.36:100][542]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.07-01.22.36:100][542]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.07-01.22.36:100][542]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.07-01.22.36:140][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt1" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt1.uasset" SILENT=true
+[2019.06.07-01.22.36:160][542]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt18FC7913F451A49AFB94698B7056B9D1A.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt1.uasset'
+[2019.06.07-01.22.36:190][542]MaterialEditorStats: Base pass shader: 69 instructions
+[2019.06.07-01.22.36:190][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2019.06.07-01.22.36:190][542]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.06.07-01.22.36:190][542]MaterialEditorStats: Base pass vertex shader: 162 instructions
+[2019.06.07-01.22.36:190][542]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.07-01.22.36:190][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.07-01.22.36:190][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.07-01.22.36:305][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2019.06.07-01.22.36:307][543]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/__ADDONS/T91/175Tgt] ([2] browsable assets)...
+[2019.06.07-01.22.36:328][543]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/__ADDONS/T91/175Tgt.175Tgt]
+[2019.06.07-01.22.36:335][543]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/__ADDONS/T91/175Tgt.175Tgt_0]
+[2019.06.07-01.22.36:335][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt]
+[2019.06.07-01.22.36:335][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.07-01.22.36:359][543]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Auto1FA9214EB48544CFC6084F3BB1A366DA7.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Auto1.uasset'
+[2019.06.07-01.22.36:360][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ADDONS/T91/175Tgt_Skeleton] ([1] browsable assets)...
+[2019.06.07-01.22.36:360][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt_Skeleton]
+[2019.06.07-01.22.36:367][543]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Skeleton_Auto1A383B8D842D356AECD23D1A9B48FA838.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Skeleton_Auto1.uasset'
+[2019.06.07-01.22.36:368][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__ADDONS/T91/175Tgt_PhysicsAsset] ([1] browsable assets)...
+[2019.06.07-01.22.36:383][543]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/__ADDONS/T91/175Tgt_PhysicsAsset.175Tgt_PhysicsAsset]
+[2019.06.07-01.22.36:383][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt_PhysicsAsset]
+[2019.06.07-01.22.36:398][543]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_PhysicsAsset_Auto14D1C39DA4DDF32662C62F98F57FC1760.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_PhysicsAsset_Auto1.uasset'
+[2019.06.07-01.22.36:399][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__ADDONS/T91/175Tgt_Anim] ([1] browsable assets)...
+[2019.06.07-01.22.36:418][543]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/__ADDONS/T91/175Tgt_Anim.175Tgt_Anim]
+[2019.06.07-01.22.36:419][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt_Anim]
+[2019.06.07-01.22.36:435][543]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Anim_Auto1DABE6E5C467946B4F33C099D5673FAAA.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Anim_Auto1.uasset'
+[2019.06.07-01.22.36:436][543]LogFileHelpers: Auto-saving content packages took 0.130
+[2019.06.07-01.22.54:224][312]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.958 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-01.23.13:629][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.23.31:717][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.07-01.23.35:778][476]Cmd: TRANSACTION UNDO
+[2019.06.07-01.23.35:778][476]LogEditorTransaction: Undo Move Actors
+[2019.06.07-01.23.35:896][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-01.23.37:472][570]Cmd: EDIT COPY
+[2019.06.07-01.23.38:856][657]Cmd: EDIT PASTE
+[2019.06.07-01.23.41:521][831]Cmd: TRANSACTION UNDO
+[2019.06.07-01.23.41:522][831]LogEditorTransaction: Undo Move Actors
+[2019.06.07-01.23.41:661][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-01.23.43:248][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.23.49:082][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.24.06:953][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.24.07:100][541]Cmd: MODE GRID=0
+[2019.06.07-01.24.07:721][583]Cmd: MODE GRID=1
+[2019.06.07-01.24.14:583][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.24.24:887][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.24.29:255][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.25.22:591][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.25.38:183][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.25.41:654][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.26.02:414][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.26.17:860][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.26.47:999][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.28.09:199][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.28.36:825][ 75]LogEditorViewport: Clicking Background
+[2019.06.07-01.28.37:779][151]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2019.06.07-01.28.37:834][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.28.39:113][221]LogEditorViewport: Clicking Background
+[2019.06.07-01.28.40:003][292]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2019.06.07-01.28.40:055][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.28.41:544][373]LogEditorViewport: Clicking Background
+[2019.06.07-01.28.42:526][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.06.07-01.28.45:467][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.28.54:197][244]Cmd: TRANSACTION UNDO
+[2019.06.07-01.28.54:197][244]LogEditorTransaction: Undo Move Actors
+[2019.06.07-01.28.54:338][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-01.28.55:455][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.29.12:640][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.29.23:714][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.29.40:921][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.30.51:121][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.31.02:057][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.31.38:628][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.32.01:187][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.32.24:098][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.32.48:334][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.32.50:668][369]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap074B82B5457E36D763F1869C77402C99.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.07-01.32.55:643][369]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap_BuiltData75FF2D1B416C174D420E02B896313244.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.07-01.32.57:424][483]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-01.32.57:449][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.32.57:449][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-01.32.57:450][483]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午5:32:57)
+[2019.06.07-01.32.57:515][483]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-01.32.57:775][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.259376s)
+[2019.06.07-01.32.57:776][483]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-01.32.57:777][483]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2019.06.07-01.32.57:777][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.261116s)
+[2019.06.07-01.32.57:832][483]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-01.32.57:848][483]LogInit: FAudioDevice initialized.
+[2019.06.07-01.32.57:882][483]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-01.32.57:927][483]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-09.32.57
+[2019.06.07-01.32.57:928][483]LogWorld: Bringing up level for play took: 0.044920
+[2019.06.07-01.32.57:943][483]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.453
+[2019.06.07-01.32.57:943][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.34.13:135][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.34.13:135][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.34.13:198][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-01.34.13:198][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.34.13:252][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.34.13:286][238]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.06.07-01.34.31:778][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.35.06:845][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.35.11:619][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.35.23:884][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.35.30:603][486]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-01.35.30:625][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.35.30:626][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-01.35.30:626][486]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午5:35:30)
+[2019.06.07-01.35.30:635][486]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-01.35.30:853][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.218715s)
+[2019.06.07-01.35.30:855][486]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-01.35.30:855][486]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2019.06.07-01.35.30:855][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.220545s)
+[2019.06.07-01.35.30:916][486]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-01.35.30:934][486]LogInit: FAudioDevice initialized.
+[2019.06.07-01.35.30:970][486]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-01.35.31:412][486]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-09.35.31
+[2019.06.07-01.35.31:413][486]LogWorld: Bringing up level for play took: 0.441681
+[2019.06.07-01.35.31:435][486]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.945
+[2019.06.07-01.35.31:435][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.36.17:153][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.36.17:154][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.36.17:234][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-01.36.17:234][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.36.17:286][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.36.17:320][918]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.06.07-01.36.25:663][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.36.25:845][551]LogAssetEditorManager: Opening Asset editor for Material /Game/__ADDONS/T91/175Tgt1.175Tgt1
+[2019.06.07-01.36.25:854][551]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.26:050][551]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.26:124][551]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.26:443][551]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.36.26:443][551]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.36.26:443][551]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.36.26:457][551]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.36.28:085][585]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.36.28:179][588]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.36.28:524][600]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.36.28:986][614]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.36.29:442][628]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-01.36.29:540][631]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-01.36.31:904][707]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-01.36.32:067][712]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.32:308][714]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.36.34:070][774]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.34:171][774]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.07-01.36.34:178][774]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.34:258][774]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.34:327][774]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.07-01.36.34:405][775]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.07-01.36.35:020][797]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.07-01.36.35:942][828]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.06.07-01.36.36:031][831]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.06.07-01.36.36:164][835]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.36:547][845]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.07-01.36.37:057][862]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.07-01.36.37:314][871]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.07-01.36.38:431][910]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.06.07-01.36.38:875][926]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.06.07-01.36.39:151][936]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.06.07-01.36.39:902][962]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.06.07-01.36.40:214][973]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.06.07-01.36.40:355][978]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.06.07-01.36.41:230][  9]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.07-01.36.41:263][ 10]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.07-01.36.41:696][ 26]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.06.07-01.36.43:450][ 87]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.06.07-01.36.44:291][117]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.06.07-01.36.44:458][123]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.06.07-01.36.44:793][134]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.44:917][134]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.45:053][134]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.45:292][135]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.36.45:883][155]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.36.46:416][174]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.36.46:416][174]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.36.46:810][188]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.36.47:642][217]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-01.36.47:724][220]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-01.36.47:751][221]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-01.36.48:768][258]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.07-01.36.50:377][313]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.07-01.36.50:742][326]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.07-01.36.52:247][376]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.06.07-01.36.53:626][422]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.07-01.36.54:219][442]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.06.07-01.36.55:313][478]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.06.07-01.36.55:493][483]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.55:626][483]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.55:753][483]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.36.55:876][483]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.36.56:930][517]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.36.57:166][525]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.36.57:722][544]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.36.58:066][556]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.36.58:457][570]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.36.58:994][589]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.36.59:111][593]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.36.59:619][611]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.36.59:921][621]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.37.00:313][635]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.37.01:790][681]LogMaterialEditor: Saving and Compiling material 175Tgt1
+[2019.06.07-01.37.02:644][681]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-01.37.02:644][681]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-01.37.02:691][681]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.37.03:081][681]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.37.03:081][681]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.37.03:134][681]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.37.03:249][681]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.37.03:270][681]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.37.03:530][681]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 175Tgt1, compiling. 
+[2019.06.07-01.37.23:328][681]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 182
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 181
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 179
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 177
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 175
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 171
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 169
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.06.07-01.37.23:329][681]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.06.07-01.37.23:330][681]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.06.07-01.37.23:331][681]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.06.07-01.37.23:338][681]TextureStreamingBuild: Display: Compiling optional shaders took 19.824 seconds.
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.07-01.37.42:792][681]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.07-01.37.42:875][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt1" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt1.uasset" SILENT=true
+[2019.06.07-01.37.42:906][681]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt1C33B42CB48098E92408BE0A82E1BD6C9.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt1.uasset'
+[2019.06.07-01.37.42:941][681]MaterialEditorStats: Base pass shader: 68 instructions
+[2019.06.07-01.37.42:941][681]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2019.06.07-01.37.42:941][681]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.06.07-01.37.42:941][681]MaterialEditorStats: Base pass vertex shader: 162 instructions
+[2019.06.07-01.37.42:941][681]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.07-01.37.42:941][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.07-01.37.42:941][681]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.07-01.39.35:396][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.39.35:474][993]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-01.39.35:500][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.39.35:500][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-01.39.35:500][993]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午5:39:35)
+[2019.06.07-01.39.35:521][993]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-01.39.35:742][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221311s)
+[2019.06.07-01.39.35:744][993]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-01.39.35:744][993]LogPlayLevel: PIE: World Init took: (0.001987s)
+[2019.06.07-01.39.35:744][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.223618s)
+[2019.06.07-01.39.35:803][993]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-01.39.35:819][993]LogInit: FAudioDevice initialized.
+[2019.06.07-01.39.35:851][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-01.39.35:891][993]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-09.39.35
+[2019.06.07-01.39.35:892][993]LogWorld: Bringing up level for play took: 0.040322
+[2019.06.07-01.39.35:907][993]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.583
+[2019.06.07-01.39.35:907][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.40.21:013][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.40.21:013][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.40.21:090][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-01.40.21:090][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.40.21:154][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.40.21:196][363]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2019.06.07-01.42.05:040][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.42.07:924][363]LogEditorFactories: Performing atomic reimport of [C:/Users/Bruce/Dropbox/T91/175Tgt.png]
+[2019.06.07-01.42.07:926][363]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Bruce/Dropbox/T91/175Tgt.png)
+[2019.06.07-01.42.07:926][363]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.07-01.42.07:927][363]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.07-01.42.07:985][363]LogTexture: Display: Building textures: 175Tgt_0 (AutoDXT, 1024X1024)
+[2019.06.07-01.42.08:844][363]LogEditorFactories: -- imported successfully
+[2019.06.07-01.42.19:138][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.42.24:309][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.42.35:499][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.42.46:520][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.42.46:682][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-01.42.46:701][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.42.46:701][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-01.42.46:701][ 71]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午5:42:46)
+[2019.06.07-01.42.46:719][ 71]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-01.42.46:925][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206297s)
+[2019.06.07-01.42.46:926][ 71]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-01.42.46:927][ 71]LogPlayLevel: PIE: World Init took: (0.001712s)
+[2019.06.07-01.42.46:927][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.208308s)
+[2019.06.07-01.42.46:987][ 71]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-01.42.47:003][ 71]LogInit: FAudioDevice initialized.
+[2019.06.07-01.42.47:039][ 71]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-01.42.47:080][ 71]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-09.42.47
+[2019.06.07-01.42.47:081][ 71]LogWorld: Bringing up level for play took: 0.041302
+[2019.06.07-01.42.47:095][ 71]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.606
+[2019.06.07-01.42.47:096][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.43.36:519][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.43.36:519][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.43.36:581][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-01.43.36:581][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.43.36:631][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.43.36:662][864]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.06.07-01.43.44:459][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.43.57:302][348]LogActorFactory: Actor Factory created Cube
+[2019.06.07-01.43.58:801][449]LogActorFactory: Actor Factory created Cube
+[2019.06.07-01.44.07:039][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.44.32:668][739]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2019.06.07-01.44.32:690][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.44.34:769][871]LogEditorViewport: Clicking Background
+[2019.06.07-01.44.36:399][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.45.01:647][598]Cmd: DELETE
+[2019.06.07-01.45.01:647][598]Cmd: ACTOR DELETE
+[2019.06.07-01.45.01:718][598]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.07-01.45.01:764][598]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2019.06.07-01.45.19:792][484]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.07-01.45.22:641][484]LogSlate: Window 'T91rifle*' being destroyed
+[2019.06.07-01.45.22:678][484]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.07-01.45.23:287][484]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.45.23:287][484]LogMaterial: Warning: C:\Users\Bruce\source\repos\UnrealFPS\Content\__ADDONS\T91\175Tgt1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.07-01.45.23:287][484]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.06.07-01.45.23:292][484]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.45.23:293][484]LogMaterial: Warning: C:\Users\Bruce\source\repos\UnrealFPS\Content\__ADDONS\T91\175Tgt1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.07-01.45.23:293][484]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.06.07-01.45.23:294][484]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.45.23:294][484]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.45.23:294][484]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.45.23:295][484]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.45.23:307][484]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.45.23:308][484]LogMaterial: Warning: /Engine/Transient.175Tgt1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.07-01.45.23:308][484]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.06.07-01.45.24:325][484]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.24:325][484]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.24:487][491]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.24:596][498]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.24:701][505]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.24:814][512]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.24:926][519]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:038][526]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:142][533]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:245][540]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:356][547]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:463][554]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:574][561]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:680][568]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:788][575]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.25:893][582]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.26:009][589]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.26:109][596]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.26:214][603]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.26:326][610]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.26:434][617]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.26:596][624]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.29:219][760]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.29:356][767]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.29:492][774]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.29:621][781]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.29:763][788]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.29:898][795]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:026][802]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:167][809]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:318][817]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:444][824]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:574][831]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:707][838]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:842][845]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.30:960][852]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.31:078][859]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.31:207][866]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.31:354][873]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.31:503][880]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.31:649][887]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.31:798][894]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.31:926][901]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.32:073][908]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.32:205][915]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.32:344][922]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.32:482][929]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.32:626][936]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.32:764][943]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.32:915][950]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.33:631][986]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.33:772][993]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.33:909][  0]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.34:045][  7]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.34:187][ 14]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.34:312][ 21]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.34:431][ 28]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.34:596][ 35]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.34:732][ 42]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.34:870][ 49]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:013][ 56]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:158][ 63]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:292][ 70]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:421][ 77]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:537][ 84]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:661][ 91]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:804][ 98]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.35:931][105]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:071][112]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:208][119]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:344][126]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:454][133]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:568][140]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:676][147]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:781][154]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:886][161]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.36:991][168]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.37:097][175]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.37:204][182]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.37:352][189]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.37:463][196]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.37:583][203]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.37:706][210]LogAnimation: Warning: SkeletalMesh 175Tgt has no skeleton. This needs to fixed before an animation can be set
+[2019.06.07-01.45.41:607][285]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.07-01.45.51:162][719]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.07-01.46.01:083][935]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/175Tgt.fbx)
+[2019.06.07-01.46.01:099][935]LogFbx: Loading FBX Scene from ../../../../../../Users/Bruce/Dropbox/T91/175Tgt.fbx
+[2019.06.07-01.46.01:109][935]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.07-01.46.06:788][935]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.07-01.46.06:855][935]LogFbx: =================================================
+[2019.06.07-01.46.06:856][935]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.46.06:856][935]LogFbx: 	Total Deformer Count 230711136.
+[2019.06.07-01.46.06:856][935]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.46.06:856][935]LogFbx: =================================================
+[2019.06.07-01.46.06:856][935]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.46.06:856][935]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.46.06:856][935]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.46.06:856][935]LogFbx: =================================================
+[2019.06.07-01.46.06:856][935]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.46.06:857][935]LogFbx: 	Total Deformer Count 230711136.
+[2019.06.07-01.46.06:857][935]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.46.06:857][935]LogFbx: =================================================
+[2019.06.07-01.46.06:857][935]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.46.06:857][935]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.46.06:857][935]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.46.06:858][935]LogFbx: Valid bind pose for Pose (Plane) - Plane
+[2019.06.07-01.46.06:862][935]LogMaterial: Warning: Material /Game/__ADDONS/T91/175Tgt1.175Tgt1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.07-01.46.06:869][935]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.06:944][935]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.06:994][935]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.07-01.46.06:994][935]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.07-01.46.06:994][935]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.07-01.46.06:994][935]LogFbx: Triangulating skeletal mesh Plane
+[2019.06.07-01.46.06:995][935]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.06.07-01.46.07:039][935]LogSkeletalMesh: Section 0: 24 vertices, 1 active bones
+[2019.06.07-01.46.07:039][935]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2019.06.07-01.46.07:044][935]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.46.07:045][935]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.46.07:100][935]LogFbx: =================================================
+[2019.06.07-01.46.07:100][935]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.46.07:100][935]LogFbx: 	Total Deformer Count 13918480.
+[2019.06.07-01.46.07:100][935]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.46.07:100][935]LogFbx: =================================================
+[2019.06.07-01.46.07:100][935]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.46.07:100][935]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.46.07:100][935]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.46.07:100][935]LogFbx: =================================================
+[2019.06.07-01.46.07:100][935]LogFbx: Dumping Node START [Plane] 
+[2019.06.07-01.46.07:100][935]LogFbx: 	Total Deformer Count 13918480.
+[2019.06.07-01.46.07:100][935]LogFbx: 		[Node 1] Armature (Type Skin).
+[2019.06.07-01.46.07:100][935]LogFbx: =================================================
+[2019.06.07-01.46.07:100][935]LogFbx: 	Attribute (Plane) Type (4).
+[2019.06.07-01.46.07:100][935]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2019.06.07-01.46.07:100][935]LogFbx: Dumping Node END [Plane]
+[2019.06.07-01.46.07:100][935]LogFbx: SortedLinks :(0) Bone
+[2019.06.07-01.46.07:101][935]LogFbx: Parsing AnimStack Armature|Hit
+[2019.06.07-01.46.07:110][935]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/__ADDONS/T91/175Tgt_Anim.175Tgt_Anim
+[2019.06.07-01.46.07:111][935]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.175Tgt_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.07-01.46.07:115][935]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.46.07:115][935]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.46.07:125][935]LogSkeletalMesh: Building Skeletal Mesh 175Tgt...
+[2019.06.07-01.46.07:125][935]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.46.07:132][935]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Bruce/Dropbox/T91/175Tgt.png)
+[2019.06.07-01.46.07:133][935]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.07-01.46.07:133][935]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.06.07-01.46.07:224][935]LogTexture: Display: Building textures: 175Tgt_0 (AutoDXT, 1024X1024)
+[2019.06.07-01.46.19:311][487]LogAssetEditorManager: Opening Asset editor for Material /Game/__ADDONS/T91/175Tgt1.175Tgt1
+[2019.06.07-01.46.19:322][487]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.19:524][487]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.19:625][487]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.19:742][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.07-01.46.20:768][487]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.46.22:037][524]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.46.23:115][563]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.46.23:714][586]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.46.24:497][615]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.46.25:333][644]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.46.25:544][652]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.46.26:564][687]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.46.26:860][698]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.46.28:289][717]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.46.28:289][717]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-01.46.28:289][717]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-01.46.28:289][717]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-01.46.28:289][717]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.07-01.46.28:549][717]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.07-01.46.29:044][728]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.07-01.46.29:170][733]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.06.07-01.46.30:791][786]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.07-01.46.31:277][802]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.31:354][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.46.31:400][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.07-01.46.31:415][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.46.31:860][815]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.06.07-01.46.32:274][830]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.46.32:563][840]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.46.33:121][861]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.46.33:829][885]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.46.34:281][902]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.46.34:433][908]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.46.34:782][921]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.34:863][921]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.46.34:863][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.46.35:163][931]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.46.35:491][943]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.46.36:606][981]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.46.36:931][992]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.46.37:014][995]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.46.38:295][ 40]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.46.38:351][ 42]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.46.38:706][ 56]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.46.38:796][ 59]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.39:367][ 74]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.46.39:455][ 77]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.46.39:719][ 87]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.46.41:239][141]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.46.41:451][149]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.46.41:700][158]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.46.42:880][201]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.46.42:907][202]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.46.43:075][206]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.46.43:753][229]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.46.44:220][244]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-01.46.44:266][246]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-01.46.44:750][264]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-01.46.45:364][287]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.07-01.46.46:251][320]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.46:733][334]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.46.46:978][344]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.46.47:552][366]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.46.48:489][402]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.06.07-01.46.48:774][411]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.06.07-01.46.49:205][427]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-01.46.49:885][453]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-01.46.49:885][453]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-01.46.50:436][473]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-01.46.50:752][485]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-01.46.51:252][504]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-01.46.51:481][512]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.07-01.46.52:982][567]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.53:064][567]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.07-01.46.53:296][574]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-01.46.54:344][614]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.07-01.46.55:377][655]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.07-01.46.55:793][672]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.07-01.46.56:509][699]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.56:640][699]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.56:739][699]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.07-01.46.56:739][699]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.07-01.46.56:747][699]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.46.59:966][815]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.47.00:079][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.07-01.47.05:952][ 37]LogMaterialEditor: Saving and Compiling material 175Tgt1
+[2019.06.07-01.47.06:779][ 37]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.47.07:288][ 37]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.47.07:408][ 37]LogMaterial: Display: Missing cached shader map for material 175Tgt1, compiling. 
+[2019.06.07-01.47.07:609][ 37]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 175Tgt1, compiling. 
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 175
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 171
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 169
+[2019.06.07-01.47.27:552][ 37]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.06.07-01.47.27:553][ 37]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.07-01.47.27:554][ 37]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.07-01.47.27:561][ 37]TextureStreamingBuild: Display: Compiling optional shaders took 19.966 seconds.
+[2019.06.07-01.47.46:251][ 37]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.07-01.47.46:251][ 37]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.06.07-01.47.46:251][ 37]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.07-01.47.46:251][ 37]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.06.07-01.47.46:251][ 37]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.07-01.47.46:252][ 37]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.07-01.47.46:252][ 37]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.07-01.47.46:252][ 37]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.07-01.47.46:328][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt1" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt1.uasset" SILENT=true
+[2019.06.07-01.47.46:346][ 37]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt1AA74C67A4EA40FD84B817C9C612402CA.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt1.uasset'
+[2019.06.07-01.47.46:383][ 37]MaterialEditorStats: Base pass shader: 68 instructions
+[2019.06.07-01.47.46:383][ 37]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2019.06.07-01.47.46:383][ 37]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.06.07-01.47.46:383][ 37]MaterialEditorStats: Base pass vertex shader: 162 instructions
+[2019.06.07-01.47.46:383][ 37]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.07-01.47.46:383][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.07-01.47.46:383][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.07-01.47.48:565][ 38]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap_Auto2C203E8E8458F41B23E6A03BF054F3ACB.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.06.07-01.47.48:569][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.027
+[2019.06.07-01.47.48:569][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.027
+[2019.06.07-01.47.48:574][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ADDONS/T91/175Tgt_Skeleton] ([1] browsable assets)...
+[2019.06.07-01.47.48:574][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt_Skeleton]
+[2019.06.07-01.47.48:581][ 38]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Skeleton_Auto2F1E685F741517F0E87BDCF90A82C1259.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Skeleton_Auto2.uasset'
+[2019.06.07-01.47.48:583][ 38]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/__ADDONS/T91/175Tgt] ([2] browsable assets)...
+[2019.06.07-01.47.48:602][ 38]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/__ADDONS/T91/175Tgt.175Tgt]
+[2019.06.07-01.47.48:612][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/__ADDONS/T91/175Tgt.175Tgt_0]
+[2019.06.07-01.47.48:612][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt]
+[2019.06.07-01.47.48:612][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.06.07-01.47.48:637][ 38]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Auto24F4215BF478B89E267FE84A1841A8F65.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Auto2.uasset'
+[2019.06.07-01.47.48:638][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__ADDONS/T91/175Tgt_PhysicsAsset] ([1] browsable assets)...
+[2019.06.07-01.47.48:656][ 38]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/__ADDONS/T91/175Tgt_PhysicsAsset.175Tgt_PhysicsAsset]
+[2019.06.07-01.47.48:656][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt_PhysicsAsset]
+[2019.06.07-01.47.48:671][ 38]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_PhysicsAsset_Auto28410497A445F5421465AE58E897895C4.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_PhysicsAsset_Auto2.uasset'
+[2019.06.07-01.47.48:673][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__ADDONS/T91/175Tgt_Anim] ([1] browsable assets)...
+[2019.06.07-01.47.48:689][ 38]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/__ADDONS/T91/175Tgt_Anim.175Tgt_Anim]
+[2019.06.07-01.47.48:689][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ADDONS/T91/175Tgt_Anim]
+[2019.06.07-01.47.48:705][ 38]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Anim_Auto216582879411DFB9E65D605A7277805BE.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/__ADDONS/T91/175Tgt_Anim_Auto2.uasset'
+[2019.06.07-01.47.48:706][ 38]LogFileHelpers: Auto-saving content packages took 0.133
+[2019.06.07-01.49.34:495][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.49.47:678][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.50.10:306][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.50.23:548][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.50.23:645][986]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-01.50.23:669][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.50.23:669][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-01.50.23:669][986]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午5:50:23)
+[2019.06.07-01.50.23:670][986]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-01.50.23:898][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.227660s)
+[2019.06.07-01.50.23:899][986]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-01.50.23:900][986]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2019.06.07-01.50.23:900][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.229878s)
+[2019.06.07-01.50.23:954][986]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-01.50.23:973][986]LogInit: FAudioDevice initialized.
+[2019.06.07-01.50.24:006][986]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-01.50.24:044][986]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-09.50.24
+[2019.06.07-01.50.24:045][986]LogWorld: Bringing up level for play took: 0.037797
+[2019.06.07-01.50.24:059][986]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.43
+[2019.06.07-01.50.24:059][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.51.30:240][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.51.30:240][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.51.30:298][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-01.51.30:298][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.51.30:346][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.51.30:383][114]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.06.07-01.51.43:986][162]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (175Tgt)
+[2019.06.07-01.51.44:060][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-01.51.50:599][557]Cmd: DELETE
+[2019.06.07-01.51.50:599][557]Cmd: ACTOR DELETE
+[2019.06.07-01.51.50:663][557]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.07-01.51.50:702][557]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2019.06.07-01.52.04:058][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.52.07:118][273]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.07-01.52.22:003][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__ADDONS/T91/175TgtBP.175TgtBP
+[2019.06.07-01.53.06:523][169]BlueprintLog: New page: Compile 175TgtBP
+[2019.06.07-01.55.39:550][398]BlueprintLog: New page: Compile 175TgtBP
+[2019.06.07-01.57.24:167][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.57.35:115][416]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap0CD9D91641B2F7FC48CF93AC3AD06F6B.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.07-01.57.39:953][416]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap_BuiltData9A3291AE492E8E927809F9881D8EFB96.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.07-01.57.52:646][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.57.52:738][282]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-01.57.52:761][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.57.52:761][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-01.57.52:761][282]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午5:57:52)
+[2019.06.07-01.57.52:764][282]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-01.57.52:968][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202797s)
+[2019.06.07-01.57.52:969][282]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-01.57.52:969][282]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2019.06.07-01.57.52:969][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.204795s)
+[2019.06.07-01.57.53:018][282]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-01.57.53:033][282]LogInit: FAudioDevice initialized.
+[2019.06.07-01.57.53:065][282]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-01.57.53:101][282]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-09.57.53
+[2019.06.07-01.57.53:104][282]LogWorld: Bringing up level for play took: 0.037525
+[2019.06.07-01.57.53:118][282]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.629
+[2019.06.07-01.57.53:118][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.58.44:054][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.58.44:054][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.58.44:109][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-01.58.44:109][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-01.58.44:192][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-01.58.44:228][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2019.06.07-01.59.07:384][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-01.59.41:124][893]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/__ADDONS/T91/175Tgt.175Tgt
+[2019.06.07-01.59.41:157][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-01.59.41:220][893]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-02.00.34:452][980]LogSlate: Window '175Tgt*' being destroyed
+[2019.06.07-02.00.34:459][980]LogSlate: Window '175Tgt*' being destroyed
+[2019.06.07-02.00.36:385][ 59]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__ADDONS/T91/175TgtBP.175TgtBP
+[2019.06.07-02.01.11:933][704]BlueprintLog: New page: Compile 175TgtBP
+[2019.06.07-02.01.45:666][410]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__ADDONS/T91/T91rifle.T91rifle
+[2019.06.07-02.07.37:581][354]BlueprintLog: New page: Compile T91rifle
+[2019.06.07-02.07.41:157][521]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-02.07.41:190][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.07.41:190][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-02.07.41:190][521]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午6:07:41)
+[2019.06.07-02.07.41:207][521]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-02.07.41:409][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202084s)
+[2019.06.07-02.07.41:411][521]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-02.07.41:411][521]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2019.06.07-02.07.41:411][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.204028s)
+[2019.06.07-02.07.41:462][521]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-02.07.41:478][521]LogInit: FAudioDevice initialized.
+[2019.06.07-02.07.41:514][521]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-02.07.41:552][521]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-10.07.41
+[2019.06.07-02.07.41:552][521]LogWorld: Bringing up level for play took: 0.038034
+[2019.06.07-02.07.41:567][521]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.078
+[2019.06.07-02.07.41:567][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.08.23:329][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.08.23:330][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.08.23:398][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-02.08.23:398][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.08.23:445][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.08.23:481][694]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2019.06.07-02.08.27:560][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.09.06:274][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.09.15:619][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-02.09.24:181][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.09.44:623][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.10.18:849][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.10.23:307][906]LogEditorTransaction: Undo Set Scale
+[2019.06.07-02.10.23:332][906]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.07-02.10.23:601][906]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.269 s
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: 
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: 
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: Stack: 
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbf9a86 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8db9f9aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc858bfa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc858c0795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8586d4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8f1bfe72 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8f184809 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8f22c40e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8f039ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8efd0fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8c2985c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8bffb94f UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8bfd0419 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8c39ce73 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8c37ed70 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8c3288c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8c385cda UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8bfaf09b UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8bfe186e UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8c002dad UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8db9ffdd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbcacf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbb140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8dc1b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8dc5f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbf726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:601][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8bfd1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8efd206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8f014c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8e476d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8e464cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8ef9694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8f01697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc8f009a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc93eadaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc93ea0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc93eb01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc93e9ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffcd261681d USER32.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffcd2616212 USER32.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffc93eb1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ff740755546 UE4Editor.exe!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ff74076596c UE4Editor.exe!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ff7407659ea UE4Editor.exe!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ff7407748da UE4Editor.exe!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ff74077659a UE4Editor.exe!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffcd1627bd4 KERNEL32.DLL!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffcd35ace71 ntdll.dll!UnknownFunction []
+[2019.06.07-02.10.23:602][906]LogOutputDevice: Error: 
+[2019.06.07-02.10.23:611][906]LogStats:                SubmitErrorReport -  0.000 s
