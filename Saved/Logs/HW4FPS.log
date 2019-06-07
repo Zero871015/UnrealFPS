@@ -5873,3 +5873,463 @@ Script Stack (0 frames):
 [2019.06.07-02.10.23:602][906]LogOutputDevice: Error: [Callstack] 0x00007ffcd35ace71 ntdll.dll!UnknownFunction []
 [2019.06.07-02.10.23:602][906]LogOutputDevice: Error: 
 [2019.06.07-02.10.23:611][906]LogStats:                SubmitErrorReport -  0.000 s
+[2019.06.07-02.10.24:914][906]LogStats:                    SendNewReport -  1.304 s
+[2019.06.07-02.10.24:915][906]LogStats:             FDebug::EnsureFailed -  1.584 s
+[2019.06.07-02.10.38:727][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.10.58:198][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.10.58:296][315]BlueprintLog: New page: Compile 175TgtBP
+[2019.06.07-02.11.03:321][602]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-02.11.03:346][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.11.03:346][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-02.11.03:346][602]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午6:11:03)
+[2019.06.07-02.11.03:362][602]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-02.11.03:585][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.223174s)
+[2019.06.07-02.11.03:586][602]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-02.11.03:587][602]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2019.06.07-02.11.03:587][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.224567s)
+[2019.06.07-02.11.03:643][602]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-02.11.03:661][602]LogInit: FAudioDevice initialized.
+[2019.06.07-02.11.03:697][602]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-02.11.03:733][602]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-10.11.03
+[2019.06.07-02.11.03:735][602]LogWorld: Bringing up level for play took: 0.037324
+[2019.06.07-02.11.03:749][602]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.26
+[2019.06.07-02.11.03:749][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.11.46:117][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.11.46:117][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.11.46:175][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-02.11.46:175][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.11.46:222][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.11.46:275][753]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2019.06.07-02.12.00:391][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.12.04:742][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.12.04:867][930]Cmd: MODE ROTGRID=1
+[2019.06.07-02.12.10:685][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.12.10:812][300]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-02.12.10:834][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.12.10:834][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-02.12.10:834][300]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午6:12:10)
+[2019.06.07-02.12.10:835][300]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-02.12.11:073][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.238554s)
+[2019.06.07-02.12.11:074][300]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-02.12.11:075][300]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2019.06.07-02.12.11:075][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.240062s)
+[2019.06.07-02.12.11:130][300]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-02.12.11:147][300]LogInit: FAudioDevice initialized.
+[2019.06.07-02.12.11:182][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-02.12.11:254][300]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-10.12.11
+[2019.06.07-02.12.11:255][300]LogWorld: Bringing up level for play took: 0.072492
+[2019.06.07-02.12.11:270][300]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.781
+[2019.06.07-02.12.11:271][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.12.20:843][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.12.20:843][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.12.20:906][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-02.12.20:906][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.12.20:955][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.12.20:991][  3]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2019.06.07-02.12.22:131][ 84]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (175Tgt)
+[2019.06.07-02.12.55:715][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.13.03:937][731]LogSlate: Window 'Select Path' being destroyed
+[2019.06.07-02.13.04:085][731]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__ADDONS/175Tgt_Blueprint.175Tgt_Blueprint
+[2019.06.07-02.14.16:305][860]BlueprintLog: New page: Compile 175Tgt_Blueprint
+[2019.06.07-02.15.03:837][906]BlueprintLog: New page: Compile T91rifle
+[2019.06.07-02.15.14:748][580]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-02.15.14:787][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.15.14:788][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-02.15.14:788][580]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午6:15:14)
+[2019.06.07-02.15.14:788][580]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-02.15.15:016][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.228184s)
+[2019.06.07-02.15.15:017][580]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-02.15.15:018][580]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2019.06.07-02.15.15:018][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.229624s)
+[2019.06.07-02.15.15:078][580]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-02.15.15:095][580]LogInit: FAudioDevice initialized.
+[2019.06.07-02.15.15:131][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-02.15.15:169][580]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-10.15.15
+[2019.06.07-02.15.15:170][580]LogWorld: Bringing up level for play took: 0.038508
+[2019.06.07-02.15.15:185][580]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.695
+[2019.06.07-02.15.15:186][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.15.32:083][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.15.32:084][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.15.32:146][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-02.15.32:146][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.15.32:197][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.15.32:233][902]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.06.07-02.15.34:148][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-02.15.35:644][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-02.15.37:823][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMapE202EAD54B1C1A5C6DDCD09E85632282.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.07-02.15.37:862][128]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.201
+[2019.06.07-02.15.37:966][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonCharacterF868D93949E2533FCC7960B05295CCAD.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-02.15.38:005][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/T91rifle" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/T91rifle.uasset" SILENT=true
+[2019.06.07-02.15.38:116][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91rifle2F04F795414B4DF945DE2BA459868A96.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/T91rifle.uasset'
+[2019.06.07-02.15.38:146][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/580b585b2edbce24c47b243b" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/580b585b2edbce24c47b243b.uasset" SILENT=true
+[2019.06.07-02.15.38:250][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/580b585b2edbce24c47b243b8D17BB3D43C5C7E973677CAE5F269A19.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/580b585b2edbce24c47b243b.uasset'
+[2019.06.07-02.15.38:263][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/BulletHole" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/BulletHole.uasset" SILENT=true
+[2019.06.07-02.15.38:286][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/BulletHole22FFA92144BC4338EEE4C3A7B74036D4.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/BulletHole.uasset'
+[2019.06.07-02.15.38:300][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/Landscapce/Textures/grass" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/Landscapce/Textures/grass.uasset" SILENT=true
+[2019.06.07-02.15.38:317][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/grass551ABA5A414642E7890452B45C5F5E90.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/Landscapce/Textures/grass.uasset'
+[2019.06.07-02.15.38:331][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/Landscapce/Textures/grass_Mat" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/Landscapce/Textures/grass_Mat.uasset" SILENT=true
+[2019.06.07-02.15.38:356][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/grass_MatC8C79E3D4381E8A32F358EA4A4D0EB1E.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/Landscapce/Textures/grass_Mat.uasset'
+[2019.06.07-02.15.38:370][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt_Skeleton" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_Skeleton.uasset" SILENT=true
+[2019.06.07-02.15.38:377][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_SkeletonE571E9AC4B35F78F117F7DAD55DFEC3E.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_Skeleton.uasset'
+[2019.06.07-02.15.38:390][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt.uasset" SILENT=true
+[2019.06.07-02.15.38:483][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175TgtD6FA29904EACA65B68B5D5B507F63C4D.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt.uasset'
+[2019.06.07-02.15.38:494][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt_PhysicsAsset" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_PhysicsAsset.uasset" SILENT=true
+[2019.06.07-02.15.38:503][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_PhysicsAsset291A09AB49370BAB6BDF829315E705E8.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_PhysicsAsset.uasset'
+[2019.06.07-02.15.38:515][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt_Anim" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_Anim.uasset" SILENT=true
+[2019.06.07-02.15.38:524][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Anim3F5B17494F8BB32871B0FE919E893F61.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_Anim.uasset'
+[2019.06.07-02.15.38:555][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175TgtBP" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175TgtBP.uasset" SILENT=true
+[2019.06.07-02.15.38:588][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175TgtBPEA7D593E4D3571E675741DA9E0B92E24.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175TgtBP.uasset'
+[2019.06.07-02.15.38:624][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/175Tgt_Blueprint" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/175Tgt_Blueprint.uasset" SILENT=true
+[2019.06.07-02.15.38:653][128]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Blueprint6DA683634CCE7D04FE81B0B4FB957C26.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/175Tgt_Blueprint.uasset'
+[2019.06.07-02.17.47:684][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.17.53:605][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.175Tgt_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.SKEL_175Tgt_Blueprint_C' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.175Tgt_Blueprint_C' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.175Tgt_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.175Tgt_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.175Tgt_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.175Tgt_Blueprint:Hit.K2Node_FunctionEntry_0' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.SKEL_175Tgt_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.SKEL_175Tgt_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.SKEL_175Tgt_Blueprint_C:ReceiveTick' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.SKEL_175Tgt_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:606][939]LogMetaData: Removing '/Game/__ADDONS/T91/175Tgt_Blueprint.175Tgt_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/__ADDONS/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.17.53:725][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175Tgt_Blueprint" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_Blueprint.uasset" SILENT=true
+[2019.06.07-02.17.53:751][939]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Blueprint3DB8DEF8427BB58D938B70BCA9516596.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175Tgt_Blueprint.uasset'
+[2019.06.07-02.17.53:760][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/175Tgt_Blueprint" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/175Tgt_Blueprint.uasset" SILENT=true
+[2019.06.07-02.17.53:776][939]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_BlueprintD7F069A74CCC22017D278789117B3861.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/175Tgt_Blueprint.uasset'
+[2019.06.07-02.18.01:641][469]LogEditorViewport: Clicking on Actor (context menu): 175TgtBP_C (175TgtBP)
+[2019.06.07-02.18.01:687][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-02.18.09:607][832]Cmd: DELETE
+[2019.06.07-02.18.09:607][832]Cmd: ACTOR DELETE
+[2019.06.07-02.18.09:675][832]LogEditorActor: Deleted Actor: 175TgtBP_C
+[2019.06.07-02.18.09:719][832]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2019.06.07-02.18.15:675][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.18.28:624][776]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.07-02.18.28:755][776]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.07-02.18.28:845][776]LogSlate: Window '175Tgt_Blueprint*' being destroyed
+[2019.06.07-02.18.28:852][776]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.07-02.18.40:619][238]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__ADDONS/T91/T91rifle.T91rifle
+[2019.06.07-02.18.48:875][524]BlueprintLog: New page: Compile T91rifle
+[2019.06.07-02.19.09:179][520]LogMetaData: Removing '/Game/__ADDONS/T91/175TgtBP.175TgtBP_C' ref from Metadata '/Game/__ADDONS/T91/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.19.09:179][520]LogMetaData: Removing '/Game/__ADDONS/T91/175TgtBP.SKEL_175TgtBP_C' ref from Metadata '/Game/__ADDONS/T91/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.19.09:179][520]LogMetaData: Removing '/Game/__ADDONS/T91/175TgtBP.175TgtBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/__ADDONS/T91/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.19.09:179][520]LogMetaData: Removing '/Game/__ADDONS/T91/175TgtBP.175TgtBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/__ADDONS/T91/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.19.09:179][520]LogMetaData: Removing '/Game/__ADDONS/T91/175TgtBP.175TgtBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/__ADDONS/T91/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.19.09:179][520]LogMetaData: Removing '/Game/__ADDONS/T91/175TgtBP.175TgtBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/__ADDONS/T91/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.19.09:179][520]LogMetaData: Removing '/Game/__ADDONS/T91/175TgtBP.175TgtBP:Hit.K2Node_FunctionEntry_0' ref from Metadata '/Game/__ADDONS/T91/175Tgt_Blueprint.PackageMetaData'
+[2019.06.07-02.19.09:290][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175TgtBP" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175TgtBP.uasset" SILENT=true
+[2019.06.07-02.19.09:315][520]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175TgtBP0210F65E4B0301A55D197B90ECF2C37D.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175TgtBP.uasset'
+[2019.06.07-02.19.09:637][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/175Tgt_Blueprint" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/175Tgt_Blueprint.uasset" SILENT=true
+[2019.06.07-02.19.09:647][520]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175Tgt_Blueprint2EE081CA458D9C78B1DA288236152457.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/175Tgt_Blueprint.uasset'
+[2019.06.07-02.19.17:637][985]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__ADDONS/T91/175TgtBP.175TgtBP
+[2019.06.07-02.20.07:290][928]BlueprintLog: New page: Compile 175TgtBP
+[2019.06.07-02.20.16:574][276]BlueprintLog: New page: Compile T91rifle
+[2019.06.07-02.20.19:049][373]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-02.20.19:095][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.20.19:096][373]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.07-02.20.19:100][373]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2019.06.07-02.20.19:370][373]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2019.06.07-02.20.19:370][373]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午6:20:19)
+[2019.06.07-02.20.19:370][373]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-02.20.19:577][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.207319s)
+[2019.06.07-02.20.19:579][373]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-02.20.19:579][373]LogPlayLevel: PIE: World Init took: (0.001754s)
+[2019.06.07-02.20.19:580][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.209493s)
+[2019.06.07-02.20.19:635][373]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-02.20.19:651][373]LogInit: FAudioDevice initialized.
+[2019.06.07-02.20.19:683][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-02.20.19:723][373]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-10.20.19
+[2019.06.07-02.20.19:724][373]LogWorld: Bringing up level for play took: 0.040410
+[2019.06.07-02.20.19:739][373]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.25
+[2019.06.07-02.20.19:739][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.20.31:019][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.20.31:020][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.20.31:095][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-02.20.31:095][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.20.31:136][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.20.31:179][167]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2019.06.07-02.20.45:817][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-02.21.00:879][248]BlueprintLog: New page: Compile T91rifle
+[2019.06.07-02.21.37:413][880]BlueprintLog: New page: Compile 175TgtBP
+[2019.06.07-02.21.39:698][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-02.21.39:791][992]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-02.21.39:828][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.21.39:828][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-02.21.39:828][992]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午6:21:39)
+[2019.06.07-02.21.39:829][992]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-02.21.40:045][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.216272s)
+[2019.06.07-02.21.40:046][992]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-02.21.40:046][992]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2019.06.07-02.21.40:046][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.217576s)
+[2019.06.07-02.21.40:104][992]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-02.21.40:122][992]LogInit: FAudioDevice initialized.
+[2019.06.07-02.21.40:153][992]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-02.21.40:190][992]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-10.21.40
+[2019.06.07-02.21.40:191][992]LogWorld: Bringing up level for play took: 0.037035
+[2019.06.07-02.21.40:205][992]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.285
+[2019.06.07-02.21.40:205][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.22.26:187][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.22.26:187][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.22.26:254][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-02.22.26:255][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-02.22.26:389][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-02.22.26:426][463]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2019.06.07-02.22.28:966][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-02.22.30:506][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-02.22.32:729][727]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/ThirdPersonExampleMap31B9A1AA4492689B4E3FB08FB4EF243C.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.07-02.22.32:767][727]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.243
+[2019.06.07-02.22.32:801][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/T91rifle" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/T91rifle.uasset" SILENT=true
+[2019.06.07-02.22.32:898][727]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/T91rifle1CEC5E4549124B0EC91BE4B477E7F641.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/T91rifle.uasset'
+[2019.06.07-02.22.32:923][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__ADDONS/T91/175TgtBP" FILE="../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175TgtBP.uasset" SILENT=true
+[2019.06.07-02.22.32:955][727]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/175TgtBP7142B5A843501FA929AC9AB18FE63DC0.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/__ADDONS/T91/175TgtBP.uasset'
+[2019.06.07-02.22.35:856][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-03.50.52:105][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-03.50.52:218][358]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-03.50.52:241][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-03.50.52:241][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-03.50.52:241][358]PIE: New page: PIE session: ThirdPersonExampleMap (2019年6月7日 下午7:50:52)
+[2019.06.07-03.50.52:241][358]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.07-03.50.52:455][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213058s)
+[2019.06.07-03.50.52:456][358]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.07-03.50.52:456][358]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2019.06.07-03.50.52:456][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.214481s)
+[2019.06.07-03.50.52:513][358]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-03.50.52:531][358]LogInit: FAudioDevice initialized.
+[2019.06.07-03.50.52:563][358]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-03.50.52:603][358]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.07-11.50.52
+[2019.06.07-03.50.52:604][358]LogWorld: Bringing up level for play took: 0.041015
+[2019.06.07-03.50.52:619][358]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.13
+[2019.06.07-03.50.52:620][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-03.52.49:299][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-03.52.49:300][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-03.52.49:361][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-03.52.49:361][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.07-03.52.49:412][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-03.52.49:470][944]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.06.07-03.53.15:689][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-07.19.15:277][563]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:284][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:285][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:286][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:287][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:288][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:289][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:290][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:291][563]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-07.19.15:620][565]LogHttp: Warning: 0000015B97880540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.06.07-07.19.15:620][565]LogHttp: Warning: 0000015B97880540: libcurl info message cache 0 (Connection 467 seems to be dead!)
+[2019.06.07-07.19.15:620][565]LogHttp: Warning: 0000015B97880540: libcurl info message cache 1 (Closing connection 467)
+[2019.06.07-07.19.15:620][565]LogHttp: Warning: 0000015B97880540: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.06.07-07.19.15:620][565]LogHttp: Warning: 0000015B97880540: libcurl info message cache 3 (Closing connection 468)
+[2019.06.07-07.19.15:960][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2739C97E-42E6-E324-33F1-9BB5B89454CD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=7352e9a44839bb36d173e09f92d937e7%7C6afc05f604664524957a8e241b135d5b%7C3b0231d3-3f1d-4a03-9084-1b8e506c404d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.07-07.19.54:277][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.993 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.07-08.59.37:429][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-09.00.09:289][904]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.06.07-09.01.50:455][404]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2019.06.07-09.01.50:496][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-09.01.50:571][404]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-09.02.48:860][374]LogSlate: Window 'Save Mapping' being destroyed
+[2019.06.07-09.03.15:906][557]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.227
+[2019.06.07-09.03.15:908][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton] ([1] browsable assets)...
+[2019.06.07-09.03.15:908][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton]
+[2019.06.07-09.03.15:940][557]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Swat_Skeleton_Auto38CF22E0B4BA188B33594C6B6832F37AD.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton_Auto3.uasset'
+[2019.06.07-09.03.15:941][557]LogFileHelpers: Auto-saving content packages took 0.034
+[2019.06.07-09.05.09:551][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-09.06.41:190][805]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.06.07-09.06.41:499][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-09.06.41:549][805]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-09.07.33:806][763]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Swat.Swat
+[2019.06.07-09.07.33:832][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-09.07.33:893][763]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-09.08.25:659][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-09.10.26:846][603]LogRenderer: Reallocating scene render targets to support 1140x840 Format 10 NumSamples 1 (Frame:816).
+[2019.06.07-09.12.19:128][ 21]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.06.07-09.12.29:910][628]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.06.07-09.12.29:932][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-09.12.30:006][628]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-09.12.48:098][262]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/UE4_Mannequin_SkeletonFC803A9A4FF023067EDFD0BF82F421BE.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.06.07-09.13.15:695][478]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.06.07-09.13.23:844][695]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Swat_Skeleton05F745854267B04E521A428AA40F0FE3.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2019.06.07-09.13.39:395][501]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.06.07-09.13.48:684][783]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/UE4_Mannequin_SkeletonD9BF3F7041953787E93815ABE2783202.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.06.07-09.13.53:490][940]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Swat_Skeleton13D7DE9F4182C2C737EDDAB8BD790955.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2019.06.07-09.14.20:919][317]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.06.07-09.14.38:911][967]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Swat_Skeleton65E808644C59FBA8E1DC52A6B1AEE8D1.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2019.06.07-09.14.53:819][610]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.06.07-09.15.18:870][787]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.097
+[2019.06.07-09.15.18:872][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/Swat] ([1] browsable assets)...
+[2019.06.07-09.15.18:872][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/Swat]
+[2019.06.07-09.15.18:950][787]LogSavePackage: Moving '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Swat_Auto4A07C3D844F1EC3A4574939976A312FD6.tmp' to '../../../../../../Users/Bruce/source/repos/UnrealFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/Swat_Auto4.uasset'
+[2019.06.07-09.15.18:951][787]LogFileHelpers: Auto-saving content packages took 0.081
